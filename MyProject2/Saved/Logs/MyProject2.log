@@ -652,3 +652,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.21-21.01.01:321][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
 [2021.01.21-21.01.02:750][484]LogSlate: Window 'Delete Assets' being destroyed
 [2021.01.21-21.01.02:868][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.01.21-21.05.49:268][825]LogSlate: Window 'Pick Parent Class' being destroyed
