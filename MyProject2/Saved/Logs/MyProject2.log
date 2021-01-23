@@ -5347,3 +5347,8 @@ Script call stack:
 [2021.01.22-23.59.51:858][514]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
 [2021.01.22-23.59.51:927][514]LogExit: Editor shut down
 [2021.01.22-23.59.52:951][514]LogExit: Transaction tracking system shut down
+[2021.01.23-00.00.17:285][514]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000002A06D25C2C0), frame # 735514
+[2021.01.23-00.00.17:285][514]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002A06D194F40), frame # 735514
+[2021.01.23-00.00.17:293][514]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002A06D210800), frame # 735514
+[2021.01.23-00.00.21:751][514]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002A006293E00), frame # 735514
+[2021.01.23-00.00.21:751][514]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002A0062E20C0), frame # 735514
