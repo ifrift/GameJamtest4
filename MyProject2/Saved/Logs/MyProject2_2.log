@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 ﻿Log file open, 01/28/21 23:32:51
 LogInit: Display: Running engine for game: MyProject2
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 26.302769
+=======
+﻿Log file open, 01/28/21 20:06:27
+LogInit: Display: Running engine for game: MyProject2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.467588
+>>>>>>> 42c7499491949cd097d8d73d41731cb9d39d71dc
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -139,13 +147,13 @@ LogInit: Build: ++UE4+Release-4.25-CL-14469661
 LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
 LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
 LogInit: Net CL: 13144385
-LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i3-7300 CPU @ 4.00GHz, GPU: Intel(R) HD Graphics 630
 LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.25
 LogInit: Command Line: 
-LogInit: Base Directory: E:/UE_4.25/Engine/Binaries/Win64/
+LogInit: Base Directory: D:/Temp/UE_4.25/Engine/Binaries/Win64/
 LogInit: Allocator: TBB
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 26
@@ -176,7 +184,7 @@ LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 3
 LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
 LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
-LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Games/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
 LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
 LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
 LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
@@ -194,6 +202,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2021.01.28-23.33.29:826][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.01.28-23.33.29:826][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.01.28-23.33.29:826][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal Games/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
@@ -1068,3 +1077,490 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.28-23.42.28:889][306]LogD3D11RHI: CleanupD3DDevice
 [2021.01.28-23.42.28:895][306]LogExit: Exiting.
 [2021.01.28-23.42.28:907][306]Log file closed, 01/28/21 23:42:28
+=======
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+[2021.01.28-20.06.29:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.28-20.06.29:091][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.28-20.06.29:092][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.28-20.06.29:092][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.28-20.06.29:092][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.28-20.06.29:092][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.28-20.06.29:092][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.28-20.06.29:092][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+[2021.01.28-20.06.29:092][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+[2021.01.28-20.06.29:097][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.28-20.06.29:097][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.28-20.06.29:098][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.28-20.06.29:099][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.28-20.06.29:099][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.28-20.06.29:099][  0]LogHAL: Display: Platform has ~ 16 GB [17038303232 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.28-20.06.29:099][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.28-20.06.29:099][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.28-20.06.29:099][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.28-20.06.29:100][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.28-20.06.29:101][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+[2021.01.28-20.06.29:101][  0]LogInit: Computer: DESKTOP-LR2C840
+[2021.01.28-20.06.29:101][  0]LogInit: User: rmacl
+[2021.01.28-20.06.29:101][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.01.28-20.06.29:101][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.28-20.06.29:102][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.28-20.06.29:102][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.28-20.06.29:102][  0]LogMemory: Process Physical Memory: 113.88 MB used, 113.88 MB peak
+[2021.01.28-20.06.29:102][  0]LogMemory: Process Virtual Memory: 94.95 MB used, 94.95 MB peak
+[2021.01.28-20.06.29:102][  0]LogMemory: Physical Memory: 9357.07 MB used,  6891.92 MB free, 16248.99 MB total
+[2021.01.28-20.06.29:102][  0]LogMemory: Virtual Memory: 5124.52 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2021.01.28-20.06.29:109][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.28-20.06.29:166][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.28-20.06.29:167][  0]LogInit: Using OS detected language (en-GB).
+[2021.01.28-20.06.29:167][  0]LogInit: Using OS detected locale (en-GB).
+[2021.01.28-20.06.29:170][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.01.28-20.06.29:434][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.28-20.06.29:472][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.28-20.06.29:472][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.28-20.06.29:734][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.28-20.06.29:734][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.28-20.06.29:734][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.28-20.06.29:734][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.28-20.06.30:113][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2021.01.28-20.06.30:113][  0]LogD3D11RHI:       1977/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.28-20.06.30:143][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.01.28-20.06.30:143][  0]LogD3D11RHI:       128/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.01.28-20.06.30:146][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.28-20.06.30:146][  0]LogD3D11RHI:       0/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.28-20.06.30:146][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.28-20.06.30:154][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.28-20.06.30:154][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.28-20.06.30:154][  0]LogWindows: EnumDisplayDevices:
+[2021.01.28-20.06.30:154][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.01.28-20.06.30:154][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2021.01.28-20.06.30:155][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.01.28-20.06.30:155][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.01.28-20.06.30:155][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.01.28-20.06.30:155][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.01.28-20.06.30:156][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.01.28-20.06.30:156][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.01.28-20.06.30:156][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2021.01.28-20.06.30:156][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.01.28-20.06.30:156][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.01.28-20.06.30:156][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2021.01.28-20.06.30:232][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.28-20.06.30:297][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.28-20.06.30:297][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.28-20.06.30:322][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.28-20.06.33:721][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.28-20.06.33:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.28-20.06.33:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.28-20.06.33:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.28-20.06.33:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.28-20.06.33:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.28-20.06.33:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.28-20.06.33:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.28-20.06.33:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.28-20.06.33:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.28-20.06.33:752][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.28-20.06.33:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.28-20.06.33:796][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.28-20.06.33:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.28-20.06.33:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.28-20.06.33:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.28-20.06.33:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.28-20.06.33:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.28-20.06.33:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.28-20.06.33:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.28-20.06.33:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.28-20.06.33:922][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.28-20.06.33:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.28-20.06.33:944][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.28-20.06.33:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.28-20.06.33:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.28-20.06.33:984][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.28-20.06.33:997][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.28-20.06.33:997][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.28-20.06.34:007][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.28-20.06.34:077][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Intermediate/Shaders/WorkingDirectory/13604/).
+[2021.01.28-20.06.34:077][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rmacl/AppData/Local/Temp/UnrealShaderWorkingDir/A2193E3346CBE5975E3954AD92FD4FCF/'.
+[2021.01.28-20.06.34:078][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.28-20.06.34:078][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.28-20.06.34:078][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.28-20.06.35:266][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.28-20.06.35:336][  0]LogDerivedDataCache: Loaded boot cache 0.07s 75MB C:/Users/rmacl/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.28-20.06.35:337][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rmacl/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.01.28-20.06.35:337][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.28-20.06.35:337][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.28-20.06.35:337][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.28-20.06.35:337][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.28-20.06.35:350][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.28-20.06.35:350][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.28-20.06.35:350][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.28-20.06.35:419][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rmacl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.28-20.06.35:419][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.28-20.06.35:419][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.28-20.06.35:500][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.28-20.06.35:501][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.28-20.06.35:700][  0]LogAssetRegistry: FAssetRegistry took 0.1448 seconds to start up
+[2021.01.28-20.06.42:358][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.28-20.06.42:583][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.28-20.06.42:583][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.28-20.06.42:583][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.28-20.06.42:583][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.28-20.06.42:583][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.28-20.06.42:605][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2431794755)
+[2021.01.28-20.06.43:681][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000001D00B6FA9C0), frame # 0
+[2021.01.28-20.06.43:681][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D00C1C8180), frame # 0
+[2021.01.28-20.06.43:683][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D00C1DDC00), frame # 0
+[2021.01.28-20.06.43:762][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.070041 seconds
+[2021.01.28-20.06.43:769][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.01.28-20.06.43:769][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.01.28-20.06.43:770][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.28-20.06.44:391][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.28-20.06.44:455][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.28-20.06.44:916][  0]SourceControl: Source control is disabled
+[2021.01.28-20.06.44:916][  0]SourceControl: Source control is disabled
+[2021.01.28-20.06.44:919][  0]SourceControl: Source control is disabled
+[2021.01.28-20.06.44:924][  0]SourceControl: Source control is disabled
+[2021.01.28-20.06.44:934][  0]SourceControl: Source control is disabled
+[2021.01.28-20.06.45:319][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.28-20.06.45:344][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.28-20.06.45:344][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.28-20.06.45:407][  0]LogOcInput: OculusInput pre-init called
+[2021.01.28-20.06.45:420][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.28-20.06.45:420][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.28-20.06.45:551][  0]LogEngine: Initializing Engine...
+[2021.01.28-20.06.45:553][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.28-20.06.45:553][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.28-20.06.45:555][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.01.28-20.06.45:723][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.28-20.06.45:732][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.28-20.06.45:732][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D00EC7C600), frame # 0
+[2021.01.28-20.06.45:732][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D01A96FB00), frame # 0
+[2021.01.28-20.06.45:756][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.28-20.06.45:756][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.28-20.06.45:756][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.28-20.06.45:756][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.28-20.06.45:756][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.28-20.06.45:756][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.28-20.06.45:756][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.28-20.06.45:756][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.28-20.06.45:757][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.28-20.06.45:757][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.28-20.06.45:779][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.28-20.06.45:779][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.28-20.06.48:810][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.28-20.06.48:811][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.28-20.06.48:813][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.28-20.06.48:813][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.28-20.06.48:815][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.28-20.06.48:871][  0]LogInit: FAudioDevice initialized.
+[2021.01.28-20.06.48:872][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.28-20.06.53:443][  0]LogDerivedDataCache: Saved boot cache 4.57s 75MB C:/Users/rmacl/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.28-20.06.53:449][  0]LogInit: Texture streaming: Enabled
+[2021.01.28-20.06.53:466][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.28-20.06.53:466][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.28-20.06.53:468][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.28-20.06.53:533][  0]LogInit: Transaction tracking system initialized
+[2021.01.28-20.06.53:558][  0]BlueprintLog: New page: Editor Load
+[2021.01.28-20.06.53:636][  0]LocalizationService: Localization service is disabled
+[2021.01.28-20.06.54:052][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.28-20.06.54:052][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.28-20.06.54:272][  0]LogFileCache: Scanning file cache for directory 'D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/' took 0.15s
+[2021.01.28-20.06.55:064][  0]SourceControl: Source control is disabled
+[2021.01.28-20.06.55:064][  0]LogUnrealEdMisc: Loading editor; pre map load, took 32.230
+[2021.01.28-20.06.55:064][  0]Cmd: MAP LOAD FILE="../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.28-20.06.55:065][  0]LightingResults: New page: Lighting Build
+[2021.01.28-20.06.55:065][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.28-20.06.55:066][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.28-20.06.55:066][  0]MapCheck: New page: Map Check
+[2021.01.28-20.06.55:066][  0]LightingResults: New page: Lighting Build
+[2021.01.28-20.06.55:074][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D00EC7C600), frame # 0
+[2021.01.28-20.06.55:074][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D01A96FB00), frame # 0
+[2021.01.28-20.06.55:075][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.01.28-20.07.04:429][  0]LogTexture: Display: Building textures: T_ThinFilm_Spectrum_COLOR (AutoDXT, 256X64)
+[2021.01.28-20.07.04:429][  0]LogTexture: Display: Building textures: T_Metallic_Flakes_N (BC5, 512X512)
+[2021.01.28-20.07.04:429][  0]LogTexture: Display: Building textures: T_Metallic_Flakes_MASK (AutoDXT, 512X512)
+[2021.01.28-20.07.04:429][  0]LogTexture: Display: Building textures: T_Twinblast_ActionMovie_Coat_Pattern (AutoDXT, 4096X4096)
+[2021.01.28-20.07.04:429][  0]LogTexture: Display: Building textures: T_PaintScratches (AutoDXT, 2048X2048)
+[2021.01.28-20.07.04:429][  0]LogTexture: Display: Building textures: T_ML_Cloth_D (AutoDXT, 1024X1024)
+[2021.01.28-20.07.04:429][  0]LogTexture: Display: Building textures: T_GoldFabric01_N (BC5, 2048X2048)
+[2021.01.28-20.07.04:429][  0]LogTexture: Display: Building textures: T_hardmetal2_D (AutoDXT, 2048X2048)
+[2021.01.28-20.07.40:187][  0]LogTexture: Display: Building textures: T_TwinBlast_Arms_RGB (AutoDXT, 4096X4096)
+[2021.01.28-20.07.40:187][  0]LogTexture: Display: Building textures: T_TwinBlast_Arms_N (BC5, 4096X4096)
+[2021.01.28-20.07.40:187][  0]LogTexture: Display: Building textures: T_TwinBlast_Arms_MASK (AutoDXT, 4096X4096)
+[2021.01.28-20.07.40:187][  0]LogTexture: Display: Building textures: T_TwinBlast_Arms_Decals (AutoDXT, 4096X4096)
+[2021.01.28-20.07.41:427][  0]LogTexture: Display: Building textures: T_Twinblast_UV2_RGB (AutoDXT, 4096X4096)
+[2021.01.28-20.08.27:965][  0]LogTexture: Display: Building textures: T_TwinBlast_ActionMovieArms_RGB1 (AutoDXT, 4096X4096)
+[2021.01.28-20.08.27:965][  0]LogTexture: Display: Building textures: T_Fire_Gradient_COLOR (AutoDXT, 256X64)
+[2021.01.28-20.08.27:965][  0]LogTexture: Display: Building textures: T_Rough_Metal_N (BC5, 4096X4096)
+[2021.01.28-20.08.27:965][  0]LogTexture: Display: Building textures: T_Dark_Metal_D_2 (AutoDXT, 2048X2048)
+[2021.01.28-20.08.27:965][  0]LogTexture: Display: Building textures: T_TwinBlast_Pistol_N (BC5, 4096X4096)
+[2021.01.28-20.08.27:965][  0]LogTexture: Display: Building textures: T_TwinBlast_Pistol_MASK (AutoDXT, 4096X4096)
+[2021.01.28-20.08.27:965][  0]LogTexture: Display: Building textures: T_TwinBlast_Pistol_Decals (AutoDXT, 4096X4096)
+[2021.01.28-20.08.27:965][  0]LogTexture: Display: Building textures: T_Composite_Bumps_N (BC5, 2048X2048)
+[2021.01.28-20.08.27:965][  0]LogTexture: Display: Building textures: T_Twinblast_Body_Color_Overlay (AutoDXT, 4096X4096)
+[2021.01.28-20.08.27:965][  0]LogTexture: Display: Building textures: T_Primer_Black_Metal (AutoDXT, 2048X2048)
+[2021.01.28-20.08.27:965][  0]LogTexture: Display: Building textures: T_TwinBlast_LowerBody_RGB (AutoDXT, 4096X4096)
+[2021.01.28-20.08.30:278][  0]LogTexture: Display: Building textures: T_Twinblast_ActionMovie_Coat_Mask_01 (AutoDXT, 4096X4096)
+[2021.01.28-20.08.32:188][  0]LogTexture: Display: Building textures: T_TwinBlast_LowerBody_MASK (AutoDXT, 4096X4096)
+[2021.01.28-20.08.33:251][  0]LogTexture: Display: Building textures: T_Twinblast_ActionMovie_Coat_RGBA (AutoDXT, 4096X4096)
+[2021.01.28-20.09.10:517][  0]LogTexture: Display: Building textures: T_TwinBlast_LowerBody__normals (BC5, 4096X4096)
+[2021.01.28-20.09.10:517][  0]LogTexture: Display: Building textures: T_TwinBlast_ActionMovie_LowerBody_MASK3 (AutoDXT, 4096X4096)
+[2021.01.28-20.09.10:517][  0]LogTexture: Display: Building textures: T_Honeycomb_N (BC5, 2048X2048)
+[2021.01.28-20.09.10:517][  0]LogTexture: Display: Building textures: T_Rubber_2_N (BC5, 2048X2048)
+[2021.01.28-20.09.10:517][  0]LogTexture: Display: Building textures: T_Dark_Leather_N (BC5, 2048X2048)
+[2021.01.28-20.09.10:517][  0]LogTexture: Display: Building textures: T_nylonstap_N (BC5, 1024X1024)
+[2021.01.28-20.09.10:517][  0]LogTexture: Display: Building textures: T_Cloth_Bump_2_N (BC5, 2048X2048)
+[2021.01.28-20.09.10:517][  0]LogTexture: Display: Building textures: T_Cloth_Bump_2_D (AutoDXT, 2048X2048)
+[2021.01.28-20.09.10:517][  0]LogTexture: Display: Building textures: T_TwinBlast_HEAD_Subsurface_test (AutoDXT, 4096X4096)
+[2021.01.28-20.09.11:976][  0]LogTexture: Display: Building textures: T_Twinblast_ActionMovie_Jacket_N (BC5, 4096X4096)
+[2021.01.28-20.09.16:029][  0]LogTexture: Display: Building textures: T_TwinBlast_Head_Color_Spec_Mask_D (AutoDXT, 4096X4096)
+[2021.01.28-20.09.16:446][  0]LogTexture: Display: Building textures: T_Twinblast_ActionMovie_Coat_Pattern_N (BC5, 4096X4096)
+[2021.01.28-20.09.24:028][  0]LogMaterial: Display: Missing cached shader map for material M_TwinBlast_ActionMovie_Coat, compiling. 
+[2021.01.28-20.09.24:604][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 208
+[2021.01.28-20.09.24:604][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 198
+[2021.01.28-20.09.24:604][  0]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 188
+[2021.01.28-20.09.24:604][  0]LogTexture: Display: Building textures: T_ML_Aluminum01 (AutoDXT, 2048X2048)
+[2021.01.28-20.09.50:724][  0]LogTexture: Display: Building textures: T_TwinBlast_Coat_Head_RGB (AutoDXT, 4096X4096)
+[2021.01.28-20.09.50:724][  0]LogTexture: Display: Building textures: T_Primer_Black_Metal2 (AutoDXT, 2048X2048)
+[2021.01.28-20.10.02:949][  0]LogMaterial: Display: Missing cached shader map for material M_TwinBlast_ActionMovie_Arms, compiling. 
+[2021.01.28-20.10.03:134][  0]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2021.01.28-20.10.03:333][  0]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2021.01.28-20.10.03:485][  0]LogMaterial: Display: Missing cached shader map for material M_HairSheet_Master2, compiling. 
+[2021.01.28-20.10.03:657][  0]LogMaterial: Display: Missing cached shader map for material M_EyeRefractive, compiling. 
+[2021.01.28-20.10.03:800][  0]LogMaterial: Display: Missing cached shader map for material M_Mouth_Master, compiling. 
+[2021.01.28-20.10.03:907][  0]LogMaterial: Display: Missing cached shader map for material M_EyelashMaster, compiling. 
+[2021.01.28-20.10.04:103][  0]LogMaterial: Display: Missing cached shader map for material M_TwinBlast_ActionMovie_Pistol, compiling. 
+[2021.01.28-20.10.04:726][  0]LogTexture: Display: Building textures: T_Honeycomb_D (AutoDXT, 2048X2048)
+[2021.01.28-20.10.11:228][  0]LogTexture: Display: Building textures: T_Rubber_2 (AutoDXT, 2048X2048)
+[2021.01.28-20.10.21:888][  0]LogTexture: Display: Building textures: T_Synthetic_Leather01_D (AutoDXT, 2048X2048)
+[2021.01.28-20.10.31:947][  0]LogTexture: Display: Building textures: T_nylonstap_D (AutoDXT, 1024X1024)
+[2021.01.28-20.10.34:408][  0]LogMaterial: Display: Missing cached shader map for material M_TwinBlast_ActionMovie_LowerBody, compiling. 
+>>>>>>> 42c7499491949cd097d8d73d41731cb9d39d71dc
