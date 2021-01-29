@@ -3419,3 +3419,40 @@ Make sure 'MainCharacterAnimationBP_C' has been compiled for  Set AimRotation
 [2021.01.29-19.25.47:350][338]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
 [2021.01.29-19.25.50:017][338]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
 [2021.01.29-19.25.57:292][338]LogExit: Preparing to exit.
+[2021.01.29-19.26.07:435][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:435][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:435][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:435][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:435][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:435][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:435][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:435][338]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-19.26.07:457][338]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-19.26.07:457][338]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-19.26.07:457][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:457][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:457][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:457][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:457][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:457][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:457][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:457][338]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-19.26.07:458][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:458][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:458][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:458][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:458][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:458][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:458][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:458][338]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-19.26.07:458][338]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-19.26.07:458][338]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-19.26.07:553][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:553][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:553][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:553][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:553][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:553][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:553][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.01.29-19.26.07:553][338]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-19.26.12:367][338]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
