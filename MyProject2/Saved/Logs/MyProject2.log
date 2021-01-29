@@ -3462,3 +3462,7 @@ Make sure 'MainCharacterAnimationBP_C' has been compiled for  Set AimRotation
 [2021.01.29-19.26.41:290][338]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001DF651610C0), frame # 515338
 [2021.01.29-19.26.41:290][338]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF65028180), frame # 515338
 [2021.01.29-19.26.41:341][338]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF6514AA00), frame # 515338
+[2021.01.29-19.26.56:653][338]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF75918800), frame # 515338
+[2021.01.29-19.26.56:653][338]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF75968680), frame # 515338
+[2021.01.29-19.26.58:364][338]LogExit: Object subsystem successfully closed.
+[2021.01.29-19.27.00:944][338]LogShaderCompilers: Display: Shaders left to compile 0
