@@ -3459,3 +3459,6 @@ Make sure 'MainCharacterAnimationBP_C' has been compiled for  Set AimRotation
 [2021.01.29-19.26.17:951][338]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
 [2021.01.29-19.26.18:285][338]LogExit: Editor shut down
 [2021.01.29-19.26.18:862][338]LogExit: Transaction tracking system shut down
+[2021.01.29-19.26.41:290][338]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001DF651610C0), frame # 515338
+[2021.01.29-19.26.41:290][338]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DF65028180), frame # 515338
+[2021.01.29-19.26.41:341][338]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DF6514AA00), frame # 515338
