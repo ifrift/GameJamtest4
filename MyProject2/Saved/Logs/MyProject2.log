@@ -3418,3 +3418,4 @@ Make sure 'MainCharacterAnimationBP_C' has been compiled for  Set AimRotation
 [2021.01.29-19.25.47:064][338]Cmd: QUIT_EDITOR
 [2021.01.29-19.25.47:350][338]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
 [2021.01.29-19.25.50:017][338]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.01.29-19.25.57:292][338]LogExit: Preparing to exit.
