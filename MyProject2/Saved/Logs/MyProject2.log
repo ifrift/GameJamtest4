@@ -3456,3 +3456,6 @@ Make sure 'MainCharacterAnimationBP_C' has been compiled for  Set AimRotation
 [2021.01.29-19.26.07:553][338]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
 [2021.01.29-19.26.07:553][338]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
 [2021.01.29-19.26.12:367][338]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.01.29-19.26.17:951][338]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-19.26.18:285][338]LogExit: Editor shut down
+[2021.01.29-19.26.18:862][338]LogExit: Transaction tracking system shut down
