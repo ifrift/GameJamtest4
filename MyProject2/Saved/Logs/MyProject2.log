@@ -3870,3 +3870,7 @@ Make sure 'MainCharacterAnimationBP_C' has been compiled for  Set AimRotation
 [2021.01.29-19.27.36:659][338]LogModuleManager: Shutting down and abandoning module PakFile (4)
 [2021.01.29-19.27.36:843][338]LogModuleManager: Shutting down and abandoning module RSA (3)
 [2021.01.29-19.27.36:923][338]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.01.29-19.27.37:514][338]LogD3D11RHI: Shutdown
+[2021.01.29-19.27.37:514][338]LogD3D11RHI: CleanupD3DDevice
+[2021.01.29-19.27.40:715][338]LogExit: Exiting.
+[2021.01.29-19.27.41:326][338]Log file closed, 01/29/21 19:27:41
