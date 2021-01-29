@@ -3397,3 +3397,22 @@ Make sure 'MainCharacterAnimationBP_C' has been compiled for  Set AimRotation
 [2021.01.29-19.15.12:750][565]LogSavePackage: Moving '../../../../Unreal Games/UnrealEngine/GameJamtest4/MyProject2/Saved/ThirdPersonCharacter9E39678A4BF870C40D82DD90CD27C2DF.tmp' to '../../../../Unreal Games/UnrealEngine/GameJamtest4/MyProject2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2021.01.29-19.15.12:914][565]AssetCheck: New page: Asset Save: ThirdPersonCharacter
 [2021.01.29-19.15.12:914][565]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.01.29-19.24.46:916][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.01.29-19.24.52:551][337]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-19.24.52:551][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-19.25.22:736][337]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-19.25.22:736][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-19.25.26:245][337]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-19.25.26:246][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-19.25.32:014][337]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-19.25.32:014][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-19.25.34:029][337]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-19.25.34:029][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-19.25.34:544][337]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-19.25.34:544][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-19.25.37:531][337]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.01.29-19.25.38:581][337]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-19.25.38:581][337]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-19.25.41:333][337]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2021.01.29-19.25.41:398][337]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.29-19.25.47:064][338]Cmd: QUIT_EDITOR
