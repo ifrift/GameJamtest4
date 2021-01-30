@@ -2653,3 +2653,64 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-01.21.05:398][994]LogSavePackage: Moving 'G:/UE4 games/Game Jam/GameJamtest4/MyProject2/Saved/BasicEnemyBF26568540EB7133CB75808949C625B9.tmp' to 'G:/UE4 games/Game Jam/GameJamtest4/MyProject2/Content/ThirdPersonBP/Blueprints/BasicEnemy.uasset'
 [2021.01.30-01.21.05:414][994]AssetCheck: New page: Asset Save: BasicEnemy
 [2021.01.30-01.21.05:414][994]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/BasicEnemy.BasicEnemy
+[2021.01.30-01.23.39:335][504]BlueprintLog: New page: Compile BasicEnemy
+[2021.01.30-01.23.39:369][504]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.01.30-01.25.41:612][326]LogEditorTransaction: Undo Delete current selection
+[2021.01.30-01.28.33:956][294]LogEditorTransaction: Undo Move Nodes
+[2021.01.30-01.28.34:525][314]LogEditorTransaction: Undo Paste clipboard contents
+[2021.01.30-01.33.31:216][813]BlueprintLog: New page: Compile BasicEnemy
+[2021.01.30-01.33.31:253][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.01.30-01.36.15:026][202]BlueprintLog: New page: Compile BasicEnemy
+[2021.01.30-01.36.15:063][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.01.30-01.36.18:725][436]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-01.36.18:738][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-01.36.18:738][436]PIE: New page: PIE session: ThirdPersonExampleMap (30 Jan 2021, 01:36:18)
+[2021.01.30-01.36.18:738][436]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-01.36.18:770][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030897s)
+[2021.01.30-01.36.18:770][436]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-01.36.18:770][436]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F553849C00), frame # 152436
+[2021.01.30-01.36.18:770][436]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F6E325DBC0), frame # 152436
+[2021.01.30-01.36.18:771][436]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2021.01.30-01.36.18:771][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.031966s)
+[2021.01.30-01.36.18:789][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.01.30-01.36.18:790][436]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-01.36.18:790][436]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-01.36.18:790][436]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-01.36.18:790][436]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-01.36.18:790][436]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-01.36.18:790][436]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-01.36.18:790][436]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-01.36.18:790][436]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-01.36.18:791][436]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-01.36.18:791][436]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-01.36.18:798][436]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-01.36.18:798][436]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-01.36.18:834][436]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2021.01.30-01.36.18:835][436]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-01.36.18:835][436]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-01.36.18:835][436]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-01.36.18:835][436]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-01.36.18:845][436]LogInit: FAudioDevice initialized.
+[2021.01.30-01.36.18:852][436]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-01.36.18:871][436]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-01.36.18
+[2021.01.30-01.36.18:872][436]LogWorld: Bringing up level for play took: 0.018714
+[2021.01.30-01.36.18:872][436]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.01.30-01.36.18:875][436]PIE: Server logged in
+[2021.01.30-01.36.18:876][436]PIE: Play in editor total start time 0.14 seconds.
+[2021.01.30-01.36.31:545][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-01.36.31:545][438]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-01.36.31:545][438]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-01.36.31:547][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-01.36.31:559][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-01.36.31:561][438]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-01.36.31:591][438]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-01.36.31:592][438]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F6E325DBC0), frame # 153438
+[2021.01.30-01.36.31:592][438]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F553849C00), frame # 153438
+[2021.01.30-01.36.31:594][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.01.30-01.36.31:627][439]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.01.30-01.36.34:373][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.01.30-01.36.35:385][668]LogSavePackage: Moving 'G:/UE4 games/Game Jam/GameJamtest4/MyProject2/Saved/ThirdPersonExampleMapA2EBBE2C40D57752EBB8F0ACBC02CFEF.tmp' to 'G:/UE4 games/Game Jam/GameJamtest4/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.30-01.36.35:544][668]LogSavePackage: Moving 'G:/UE4 games/Game Jam/GameJamtest4/MyProject2/Saved/ThirdPersonExampleMap_BuiltData8B9BC82A415360A8CBB9E18C67FBE64A.tmp' to 'G:/UE4 games/Game Jam/GameJamtest4/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.30-01.36.35:575][668]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-01.36.35:575][668]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.01.30-01.36.35:575][668]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
