@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 ﻿Log file open, 01/30/21 17:32:44
 LogInit: Display: Running engine for game: MyProject2
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.480339
+=======
+﻿Log file open, 01/30/21 17:45:12
+LogInit: Display: Running engine for game: MyProject2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.249936
+>>>>>>> 4cb9a2d6f82863c65634e541f10c12f933f5606a
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -139,13 +147,21 @@ LogInit: Build: ++UE4+Release-4.25-CL-14469661
 LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
 LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
 LogInit: Net CL: 13144385
+<<<<<<< HEAD
 LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+=======
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i3-7300 CPU @ 4.00GHz, GPU: Intel(R) HD Graphics 630
+>>>>>>> 4cb9a2d6f82863c65634e541f10c12f933f5606a
 LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.25
 LogInit: Command Line: 
+<<<<<<< HEAD
 LogInit: Base Directory: E:/UE_4.25/Engine/Binaries/Win64/
+=======
+LogInit: Base Directory: D:/Temp/UE_4.25/Engine/Binaries/Win64/
+>>>>>>> 4cb9a2d6f82863c65634e541f10c12f933f5606a
 LogInit: Allocator: TBB
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 26
@@ -176,7 +192,11 @@ LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 3
 LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
 LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+<<<<<<< HEAD
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Unreal Games/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+=======
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+>>>>>>> 4cb9a2d6f82863c65634e541f10c12f933f5606a
 LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
 LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
 LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
@@ -194,6 +214,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2021.01.30-17.32.47:449][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.01.30-17.32.47:449][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.01.30-17.32.47:449][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Unreal Games/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
@@ -2877,3 +2898,1802 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.30-18.50.58:075][854]LogD3D11RHI: CleanupD3DDevice
 [2021.01.30-18.50.58:208][854]LogExit: Exiting.
 [2021.01.30-18.50.58:259][854]Log file closed, 01/30/21 18:50:58
+=======
+[2021.01.30-17.45.12:879][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.01.30-17.45.12:879][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.01.30-17.45.12:879][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+[2021.01.30-17.45.12:879][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+[2021.01.30-17.45.12:880][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.01.30-17.45.12:880][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+[2021.01.30-17.45.12:880][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+[2021.01.30-17.45.12:886][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.30-17.45.12:886][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.30-17.45.12:887][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.30-17.45.12:887][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.01.30-17.45.12:887][  0]LogHAL: Display: Platform has ~ 16 GB [17038303232 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.01.30-17.45.12:887][  0]LogInit: Going up to parent DeviceProfile []
+[2021.01.30-17.45.12:887][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.01.30-17.45.12:887][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.01.30-17.45.12:888][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.01.30-17.45.12:889][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.01.30-17.45.12:889][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.01.30-17.45.12:889][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.01.30-17.45.12:889][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.01.30-17.45.12:889][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.01.30-17.45.12:889][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.01.30-17.45.12:889][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.01.30-17.45.12:889][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.01.30-17.45.12:889][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.01.30-17.45.12:889][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Config/Windows/Engine.ini]
+[2021.01.30-17.45.12:889][  0]LogInit: Computer: DESKTOP-LR2C840
+[2021.01.30-17.45.12:889][  0]LogInit: User: rmacl
+[2021.01.30-17.45.12:889][  0]LogInit: CPU Page size=4096, Cores=2
+[2021.01.30-17.45.12:889][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.01.30-17.45.12:889][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.01.30-17.45.12:889][  0]LogMemory: Platform Memory Stats for Windows
+[2021.01.30-17.45.12:889][  0]LogMemory: Process Physical Memory: 115.48 MB used, 115.48 MB peak
+[2021.01.30-17.45.12:889][  0]LogMemory: Process Virtual Memory: 97.03 MB used, 97.03 MB peak
+[2021.01.30-17.45.12:889][  0]LogMemory: Physical Memory: 6506.12 MB used,  9742.87 MB free, 16248.99 MB total
+[2021.01.30-17.45.12:889][  0]LogMemory: Virtual Memory: 5126.52 MB used,  134212600.00 MB free, 134217728.00 MB total
+[2021.01.30-17.45.12:895][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.01.30-17.45.12:952][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.01.30-17.45.12:952][  0]LogInit: Using OS detected language (en-GB).
+[2021.01.30-17.45.12:952][  0]LogInit: Using OS detected locale (en-GB).
+[2021.01.30-17.45.12:954][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.01.30-17.45.13:153][  0]LogInit: Setting process to per monitor DPI aware
+[2021.01.30-17.45.13:198][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.01.30-17.45.13:198][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.01.30-17.45.13:502][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.30-17.45.13:502][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.01.30-17.45.13:502][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.01.30-17.45.13:502][  0]LogD3D11RHI: D3D11 adapters:
+[2021.01.30-17.45.13:597][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2021.01.30-17.45.13:597][  0]LogD3D11RHI:       1977/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.01.30-17.45.13:624][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.01.30-17.45.13:624][  0]LogD3D11RHI:       128/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.01.30-17.45.13:627][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.01.30-17.45.13:627][  0]LogD3D11RHI:       0/0/8124 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.01.30-17.45.13:627][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.01.30-17.45.13:633][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.01.30-17.45.13:633][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2021.01.30-17.45.13:633][  0]LogWindows: EnumDisplayDevices:
+[2021.01.30-17.45.13:633][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.01.30-17.45.13:634][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2021.01.30-17.45.13:634][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.01.30-17.45.13:634][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.01.30-17.45.13:634][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.01.30-17.45.13:634][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.01.30-17.45.13:635][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2021.01.30-17.45.13:635][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.01.30-17.45.13:635][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2021.01.30-17.45.13:635][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.01.30-17.45.13:635][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.01.30-17.45.13:635][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2021.01.30-17.45.13:691][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.01.30-17.45.13:692][  0]LogD3D11RHI: Async texture creation enabled
+[2021.01.30-17.45.13:692][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.01.30-17.45.13:712][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.01.30-17.45.14:076][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.01.30-17.45.14:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.01.30-17.45.14:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.01.30-17.45.14:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.01.30-17.45.14:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.01.30-17.45.14:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.01.30-17.45.14:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.01.30-17.45.14:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.01.30-17.45.14:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.01.30-17.45.14:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.01.30-17.45.14:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.01.30-17.45.14:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.01.30-17.45.14:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.01.30-17.45.14:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.01.30-17.45.14:141][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.01.30-17.45.14:151][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.01.30-17.45.14:161][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.01.30-17.45.14:171][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.01.30-17.45.14:179][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.01.30-17.45.14:188][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.01.30-17.45.14:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.01.30-17.45.14:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.01.30-17.45.14:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.01.30-17.45.14:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.01.30-17.45.14:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.01.30-17.45.14:251][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.01.30-17.45.14:260][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.01.30-17.45.14:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.01.30-17.45.14:270][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.01.30-17.45.14:278][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.01.30-17.45.14:340][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Intermediate/Shaders/WorkingDirectory/5140/).
+[2021.01.30-17.45.14:340][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rmacl/AppData/Local/Temp/UnrealShaderWorkingDir/3E672E3C4F7DED3791F8B0AA999A4648/'.
+[2021.01.30-17.45.14:341][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.01.30-17.45.14:341][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.01.30-17.45.14:341][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.01.30-17.45.15:164][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.01.30-17.45.15:223][  0]LogDerivedDataCache: Loaded boot cache 0.06s 75MB C:/Users/rmacl/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.30-17.45.15:223][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rmacl/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.01.30-17.45.15:223][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.01.30-17.45.15:223][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.01.30-17.45.15:223][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.30-17.45.15:223][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.01.30-17.45.15:234][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.01.30-17.45.15:234][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.01.30-17.45.15:234][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.01.30-17.45.15:235][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rmacl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.01.30-17.45.15:235][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.01.30-17.45.15:235][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.01.30-17.45.15:291][  0]LogSlate: Using FreeType 2.10.0
+[2021.01.30-17.45.15:291][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.01.30-17.45.15:328][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2021.01.30-17.45.15:645][  0]LogInit: Selected Device Profile: [Windows]
+[2021.01.30-17.45.15:786][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.01.30-17.45.15:786][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.01.30-17.45.15:786][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.01.30-17.45.15:786][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.01.30-17.45.15:786][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.01.30-17.45.15:808][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2431794755)
+[2021.01.30-17.45.16:394][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002155DB29D00), frame # 0
+[2021.01.30-17.45.16:394][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002155DA7CF40), frame # 0
+[2021.01.30-17.45.16:395][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002155DAD9E00), frame # 0
+[2021.01.30-17.45.16:461][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.059628 seconds
+[2021.01.30-17.45.16:467][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.01.30-17.45.16:467][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.01.30-17.45.16:467][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.01.30-17.45.16:822][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.01.30-17.45.16:828][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.01.30-17.45.16:911][  0]SourceControl: Source control is disabled
+[2021.01.30-17.45.16:911][  0]SourceControl: Source control is disabled
+[2021.01.30-17.45.16:914][  0]SourceControl: Source control is disabled
+[2021.01.30-17.45.16:918][  0]SourceControl: Source control is disabled
+[2021.01.30-17.45.16:924][  0]SourceControl: Source control is disabled
+[2021.01.30-17.45.17:173][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.01.30-17.45.17:193][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.30-17.45.17:193][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.01.30-17.45.17:243][  0]LogOcInput: OculusInput pre-init called
+[2021.01.30-17.45.17:255][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.01.30-17.45.17:255][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.01.30-17.45.17:313][  0]LogEngine: Initializing Engine...
+[2021.01.30-17.45.17:314][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.01.30-17.45.17:314][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.01.30-17.45.17:316][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.01.30-17.45.17:455][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.01.30-17.45.17:467][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.01.30-17.45.17:467][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000215601B4600), frame # 0
+[2021.01.30-17.45.17:467][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000215601D5940), frame # 0
+[2021.01.30-17.45.17:484][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-17.45.17:484][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-17.45.17:484][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-17.45.17:484][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-17.45.17:484][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-17.45.17:484][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-17.45.17:484][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-17.45.17:484][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-17.45.17:484][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-17.45.17:484][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-17.45.17:506][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-17.45.17:506][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-17.45.17:557][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.30-17.45.17:559][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-17.45.17:562][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-17.45.17:562][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-17.45.17:563][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-17.45.17:565][  0]LogInit: FAudioDevice initialized.
+[2021.01.30-17.45.17:565][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.01.30-17.45.17:719][  0]LogDerivedDataCache: Saved boot cache 0.15s 75MB C:/Users/rmacl/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.01.30-17.45.17:724][  0]LogInit: Texture streaming: Enabled
+[2021.01.30-17.45.17:742][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.01.30-17.45.17:742][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.01.30-17.45.17:743][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.01.30-17.45.17:806][  0]LogInit: Transaction tracking system initialized
+[2021.01.30-17.45.17:828][  0]BlueprintLog: New page: Editor Load
+[2021.01.30-17.45.17:904][  0]LocalizationService: Localization service is disabled
+[2021.01.30-17.45.18:073][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.01.30-17.45.18:073][  0]LogCook: Display: Mobile HDR setting 1
+[2021.01.30-17.45.18:243][  0]LogFileCache: Scanning file cache for directory 'D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/' took 0.06s
+[2021.01.30-17.45.18:626][  0]SourceControl: Source control is disabled
+[2021.01.30-17.45.18:626][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.752
+[2021.01.30-17.45.18:626][  0]Cmd: MAP LOAD FILE="../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.30-17.45.18:626][  0]LightingResults: New page: Lighting Build
+[2021.01.30-17.45.18:627][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-17.45.18:627][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-17.45.18:627][  0]MapCheck: New page: Map Check
+[2021.01.30-17.45.18:627][  0]LightingResults: New page: Lighting Build
+[2021.01.30-17.45.18:638][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000215601B4600), frame # 0
+[2021.01.30-17.45.18:638][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000215601D5940), frame # 0
+[2021.01.30-17.45.18:639][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.01.30-17.45.19:027][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Primary/FX/P_TwinBlast_Primary_MuzzleFlash.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Shells/SM_PlasmaShot_Shell': Can't find file.
+[2021.01.30-17.45.19:028][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Primary/FX/P_TwinBlast_Primary_MuzzleFlash.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Shells/SM_PlasmaShot_Shell': Can't find file.
+[2021.01.30-17.45.19:028][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Primary/FX/P_TwinBlast_Primary_MuzzleFlash.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Smoke/SM_Plasma_Mesh': Can't find file.
+[2021.01.30-17.45.19:028][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Primary/FX/P_TwinBlast_Primary_MuzzleFlash.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Smoke/SM_Plasma_Mesh': Can't find file.
+[2021.01.30-17.45.19:028][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Primary/FX/P_TwinBlast_Primary_MuzzleFlash.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Shells/SM_PlasmaShot_Shell': Can't find file.
+[2021.01.30-17.45.19:028][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Primary/FX/P_TwinBlast_Primary_MuzzleFlash.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Shells/SM_PlasmaShot_Shell': Can't find file.
+[2021.01.30-17.45.19:028][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Primary/FX/P_TwinBlast_Primary_MuzzleFlash.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Smoke/SM_Plasma_Mesh': Can't find file.
+[2021.01.30-17.45.19:028][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Primary/FX/P_TwinBlast_Primary_MuzzleFlash.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Smoke/SM_Plasma_Mesh': Can't find file.
+[2021.01.30-17.45.19:086][  0]LogBlueprint: Warning: Timeline Timeline_Moving Track NewTrack_0 in /Engine/Transient.REINST_ThirdPersonCharacter_C_4 has an invalid curve.  Please fix!
+[2021.01.30-17.45.19:627][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Nitro/FX/P_NitroBooster_Arms.uasset' failed to load '/Game/ParagonTwinblast/FX/Materials/Shockwaves/M_Booster_Refraction': Can't find file.
+[2021.01.30-17.45.19:627][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Nitro/FX/P_NitroBooster_Arms.uasset' failed to load '/Game/ParagonTwinblast/FX/Materials/Shockwaves/M_Booster_Refraction': Can't find file.
+[2021.01.30-17.45.19:629][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Nitro/FX/P_NitroBooster_Arms.uasset' failed to load '/Game/ParagonTwinblast/FX/Materials/Shockwaves/M_Booster_Refraction': Can't find file.
+[2021.01.30-17.45.19:629][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Nitro/FX/P_NitroBooster_Arms.uasset' failed to load '/Game/ParagonTwinblast/FX/Materials/Shockwaves/M_Booster_Refraction': Can't find file.
+[2021.01.30-17.45.19:629][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Nitro/FX/P_NitroBooster_Arms.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Shapes/SM_Twinblast_Booster_cone': Can't find file.
+[2021.01.30-17.45.19:630][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Nitro/FX/P_NitroBooster_Arms.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Shapes/SM_Twinblast_Booster_cone': Can't find file.
+[2021.01.30-17.45.19:630][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Nitro/FX/P_NitroBooster_Arms.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Shapes/SM_Twinblast_Booster_cone': Can't find file.
+[2021.01.30-17.45.19:630][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Nitro/FX/P_NitroBooster_Arms.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Shapes/SM_Twinblast_Booster_cone': Can't find file.
+[2021.01.30-17.45.20:247][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Primary/FX/P_TwinBlast_Primary_MuzzleFlash.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Smoke/SM_Plasma_Mesh': Can't find file.
+[2021.01.30-17.45.20:247][  0]LoadErrors: Failed to load /Game/ParagonTwinblast/FX/Meshes/Smoke/SM_Plasma_Mesh.SM_Plasma_Mesh Referenced by ParticleModuleTypeDataMesh_13
+[2021.01.30-17.45.20:247][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Primary/FX/P_TwinBlast_Primary_MuzzleFlash.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Smoke/SM_Plasma_Mesh': Can't find file.
+[2021.01.30-17.45.20:247][  0]LoadErrors: Failed to load /Game/ParagonTwinblast/FX/Meshes/Smoke/SM_Plasma_Mesh.SM_Plasma_Mesh Referenced by ParticleModuleTypeDataMesh_13
+[2021.01.30-17.45.20:247][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Primary/FX/P_TwinBlast_Primary_MuzzleFlash.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Shells/SM_PlasmaShot_Shell': Can't find file.
+[2021.01.30-17.45.20:247][  0]LoadErrors: Failed to load /Game/ParagonTwinblast/FX/Meshes/Shells/SM_PlasmaShot_Shell.SM_PlasmaShot_Shell Referenced by ParticleModuleTypeDataMesh_14
+[2021.01.30-17.45.20:247][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Primary/FX/P_TwinBlast_Primary_MuzzleFlash.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Shells/SM_PlasmaShot_Shell': Can't find file.
+[2021.01.30-17.45.20:247][  0]LoadErrors: Failed to load /Game/ParagonTwinblast/FX/Meshes/Shells/SM_PlasmaShot_Shell.SM_PlasmaShot_Shell Referenced by ParticleModuleTypeDataMesh_14
+[2021.01.30-17.45.20:363][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Nitro/FX/P_NitroBooster_Arms.uasset' failed to load '/Game/ParagonTwinblast/FX/Materials/Shockwaves/M_Booster_Refraction': Can't find file.
+[2021.01.30-17.45.20:363][  0]LoadErrors: Failed to load /Game/ParagonTwinblast/FX/Materials/Shockwaves/M_Booster_Refraction.M_Booster_Refraction Referenced by ParticleModuleMeshMaterial_0
+[2021.01.30-17.45.20:364][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Nitro/FX/P_NitroBooster_Arms.uasset' failed to load '/Game/ParagonTwinblast/FX/Materials/Shockwaves/M_Booster_Refraction': Can't find file.
+[2021.01.30-17.45.20:364][  0]LoadErrors: Failed to load /Game/ParagonTwinblast/FX/Materials/Shockwaves/M_Booster_Refraction.M_Booster_Refraction Referenced by ParticleModuleMeshMaterial_0
+[2021.01.30-17.45.20:366][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Nitro/FX/P_NitroBooster_Arms.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Shapes/SM_Twinblast_Booster_cone': Can't find file.
+[2021.01.30-17.45.20:366][  0]LoadErrors: Failed to load /Game/ParagonTwinblast/FX/Meshes/Shapes/SM_Twinblast_Booster_cone.SM_Twinblast_Booster_cone Referenced by ParticleModuleTypeDataMesh_0
+[2021.01.30-17.45.20:366][  0]LogLinker: Warning: While loading '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Nitro/FX/P_NitroBooster_Arms.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Shapes/SM_Twinblast_Booster_cone': Can't find file.
+[2021.01.30-17.45.20:366][  0]LoadErrors: Failed to load /Game/ParagonTwinblast/FX/Meshes/Shapes/SM_Twinblast_Booster_cone.SM_Twinblast_Booster_cone Referenced by ParticleModuleTypeDataMesh_0
+[2021.01.30-17.45.21:035][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-17.45.21:035][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002157E4F7000), frame # 0
+[2021.01.30-17.45.21:035][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021571794CC0), frame # 0
+[2021.01.30-17.45.21:304][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.30-17.45.21:349][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.01.30-17.45.21:350][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.30-17.45.21:350][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.142ms to complete.
+[2021.01.30-17.45.21:350][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.725
+[2021.01.30-17.45.21:352][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.479
+[2021.01.30-17.45.21:482][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-17.45.21:495][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-17.45.21:510][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-17.45.21:523][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-17.45.21:533][  0]LogCollectionManager: Loaded 0 collections in 0.001068 seconds
+[2021.01.30-17.45.21:550][  0]LogFileCache: Scanning file cache for directory 'D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Collections/' took 0.00s
+[2021.01.30-17.45.21:550][  0]LogFileCache: Scanning file cache for directory 'D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/Developers/rmacl/Collections/' took 0.00s
+[2021.01.30-17.45.21:550][  0]LogFileCache: Scanning file cache for directory 'D:/GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/Collections/' took 0.00s
+[2021.01.30-17.45.21:550][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 3427 classes and 821 folders.
+[2021.01.30-17.45.21:552][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.30-17.45.21:646][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.30-17.45.21:647][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.01.30-17.45.21:715][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.30-17.45.21:719][  0]LogSlate: Took 0.000637 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.30-17.45.21:725][  0]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.30-17.45.21:833][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.01.30-17.45.22:231][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.30-17.45.22:231][  0]LogLoad: (Engine Initialization) Total time: 11.36 seconds
+[2021.01.30-17.45.22:231][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.01.30-17.45.22:290][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.01.30-17.45.22:358][  0]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.30-17.45.22:367][  0]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.01.30-17.45.22:715][  2]LogAssetRegistry: Asset discovery search completed in 7.3878 seconds
+[2021.01.30-17.45.22:725][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2021.01.30-18.00.03:909][401]LogSlate: Window 'Message Log' being destroyed
+[2021.01.30-18.00.03:923][401]LogSlate: Window 'Message Log' being destroyed
+[2021.01.30-18.03.32:832][320]LogEditorViewport: Clicking on Actor (LMB): LevelLayout_C (LevelLayout)
+[2021.01.30-18.03.48:948][760]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.30-18.03.49:609][784]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2021.01.30-18.03.49:863][784]LogClass: Warning: Enum '/Game/FXVillesBloodVFXPack/DemoRoomAssets/BluePrint/BP_DemoDisplay_Enum.BP_DemoDisplay_Enum' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2021.01.30-18.03.49:888][784]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 125 classes and 0 folders.
+[2021.01.30-18.03.50:788][784]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.30-18.04.22:185][221]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.01.30-18.04.22:265][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.01.30-18.04.35:569][363]LogFactory: FactoryCreateFile: FileMediaSource with WmfFileMediaSourceFactory (0 0 C:\Users\rmacl\Downloads\GJ_19_Music_Action_01_M.mp3)
+[2021.01.30-18.04.47:562][905]LogAssetEditorSubsystem: Opening Asset editor for FileMediaSource /Game/SFX/GJ_19_Music_Action_01_M.GJ_19_Music_Action_01_M
+[2021.01.30-18.05.12:221][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.01.30-18.05.12:387][124]LogSavePackage: Moving '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/ThirdPersonExampleMap_Auto11EE31C344493CE88599CD9BD2AA63092.tmp' to '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.01.30-18.05.12:390][124]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.192
+[2021.01.30-18.05.12:390][124]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.192
+[2021.01.30-18.05.12:390][124]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SFX/GJ_19_Music_Action_01_M] ([1] browsable assets)...
+[2021.01.30-18.05.12:390][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/SFX/GJ_19_Music_Action_01_M]
+[2021.01.30-18.05.12:398][124]LogSavePackage: Moving '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/GJ_19_Music_Action_01_M_Auto1ED320B3F4F4868139EF074A3D796D383.tmp' to '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Autosaves/Game/SFX/GJ_19_Music_Action_01_M_Auto1.uasset'
+[2021.01.30-18.05.12:398][124]LogFileHelpers: Auto-saving content packages took 0.009
+[2021.01.30-18.05.37:404][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.01.30-18.05.42:288][390]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.30-18.05.42:986][390]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/SFX/GJ_19_Music_Action_01_M.GJ_19_Music_Action_01_M
+[2021.01.30-18.05.47:985][390]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2021.01.30-18.05.48:891][404]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\rmacl\Downloads\GJ_19_Music_Action_01_M.wav)
+[2021.01.30-18.05.48:901][404]LogLinker: Warning: Failed to load '/Game/SFX/GJ_19_Music_Action_01_M': Can't find file.
+[2021.01.30-18.05.48:901][404]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/SFX/GJ_19_Music_Action_01_M.GJ_19_Music_Action_01_M'
+[2021.01.30-18.05.48:975][404]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave GJ_19_Music_Action_01_M...
+[2021.01.30-18.05.48:980][404]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/SFX/GJ_19_Music_Action_01_M.GJ_19_Music_Action_01_M will be modified from 40 to 40.
+[2021.01.30-18.05.51:320][404]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 25947872 while cooking SoundWave /Game/SFX/GJ_19_Music_Action_01_M.GJ_19_Music_Action_01_M.
+[2021.01.30-18.06.26:255][ 54]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2021.01.30-18.06.26:322][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.01.30-18.06.27:676][ 91]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-18.06.27:708][ 91]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-18.06.27:708][ 91]PIE: New page: PIE session: ThirdPersonExampleMap (30 Jan 2021, 18:06:27)
+[2021.01.30-18.06.27:709][ 91]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.30-18.06.27:710][ 91]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.30-18.06.27:710][ 91]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.06.27:758][ 91]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048626s)
+[2021.01.30-18.06.27:760][ 91]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-18.06.27:760][ 91]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002151287AC00), frame # 26091
+[2021.01.30-18.06.27:760][ 91]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000215DC347880), frame # 26091
+[2021.01.30-18.06.27:760][ 91]LogPlayLevel: PIE: World Init took: (0.001865s)
+[2021.01.30-18.06.27:760][ 91]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.050673s)
+[2021.01.30-18.06.27:796][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.01.30-18.06.27:799][ 91]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-18.06.27:799][ 91]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-18.06.27:799][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-18.06.27:799][ 91]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-18.06.27:799][ 91]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-18.06.27:799][ 91]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-18.06.27:799][ 91]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-18.06.27:799][ 91]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-18.06.27:799][ 91]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-18.06.27:799][ 91]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-18.06.27:804][ 91]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-18.06.27:804][ 91]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-18.06.27:824][ 91]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.30-18.06.27:825][ 91]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-18.06.27:825][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-18.06.27:825][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-18.06.27:826][ 91]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-18.06.27:842][ 91]LogInit: FAudioDevice initialized.
+[2021.01.30-18.06.27:849][ 91]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-18.06.27:887][ 91]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-18.06.27
+[2021.01.30-18.06.27:888][ 91]LogWorld: Bringing up level for play took: 0.038333
+[2021.01.30-18.06.27:888][ 91]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.01.30-18.06.27:891][ 91]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.01.30-18.06.27:902][ 91]PIE: Server logged in
+[2021.01.30-18.06.27:903][ 91]PIE: Play in editor total start time 0.196 seconds.
+[2021.01.30-18.06.56:177][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.06.56:177][ 13]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.06.56:178][ 13]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.06.56:184][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.06.56:240][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-18.06.56:244][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.06.56:280][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.06.56:302][ 13]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000215DC347880), frame # 27013
+[2021.01.30-18.06.56:302][ 13]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002151287AC00), frame # 27013
+[2021.01.30-18.06.56:325][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.01.30-18.06.56:375][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.01.30-18.06.58:047][ 42]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/SFX/GJ_19_Music_Action_01_M_Cue.GJ_19_Music_Action_01_M_Cue
+[2021.01.30-18.07.03:542][144]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-18.07.03:567][144]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-18.07.03:567][144]PIE: New page: PIE session: ThirdPersonExampleMap (30 Jan 2021, 18:07:03)
+[2021.01.30-18.07.03:567][144]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.07.03:631][144]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063245s)
+[2021.01.30-18.07.03:633][144]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-18.07.03:633][144]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000215DBF83E00), frame # 27144
+[2021.01.30-18.07.03:633][144]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000216770087C0), frame # 27144
+[2021.01.30-18.07.03:634][144]LogPlayLevel: PIE: World Init took: (0.002766s)
+[2021.01.30-18.07.03:634][144]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.066281s)
+[2021.01.30-18.07.03:678][144]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2021.01.30-18.07.03:681][144]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-18.07.03:681][144]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-18.07.03:681][144]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-18.07.03:681][144]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-18.07.03:681][144]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-18.07.03:681][144]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-18.07.03:681][144]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-18.07.03:681][144]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-18.07.03:682][144]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-18.07.03:682][144]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-18.07.03:685][144]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-18.07.03:686][144]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-18.07.03:704][144]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.30-18.07.03:704][144]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-18.07.03:704][144]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-18.07.03:704][144]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-18.07.03:704][144]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-18.07.03:717][144]LogInit: FAudioDevice initialized.
+[2021.01.30-18.07.03:727][144]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-18.07.03:763][144]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-18.07.03
+[2021.01.30-18.07.03:764][144]LogWorld: Bringing up level for play took: 0.036866
+[2021.01.30-18.07.03:765][144]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.01.30-18.07.03:777][144]PIE: Server logged in
+[2021.01.30-18.07.03:777][144]PIE: Play in editor total start time 0.21 seconds.
+[2021.01.30-18.07.30:068][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.07.30:068][987]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.07.30:068][987]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.07.30:077][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.07.30:157][987]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-18.07.30:162][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.07.30:211][987]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.07.30:212][987]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000216770087C0), frame # 27987
+[2021.01.30-18.07.30:212][987]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000215DBF83E00), frame # 27987
+[2021.01.30-18.07.30:216][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.01.30-18.07.30:255][988]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.01.30-18.07.36:609][135]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-18.07.36:635][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-18.07.36:635][135]PIE: New page: PIE session: ThirdPersonExampleMap (30 Jan 2021, 18:07:36)
+[2021.01.30-18.07.36:635][135]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.07.36:696][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.061277s)
+[2021.01.30-18.07.36:698][135]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-18.07.36:698][135]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021676FB4400), frame # 28135
+[2021.01.30-18.07.36:698][135]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000215DCB47D80), frame # 28135
+[2021.01.30-18.07.36:698][135]LogPlayLevel: PIE: World Init took: (0.001789s)
+[2021.01.30-18.07.36:698][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.063386s)
+[2021.01.30-18.07.36:740][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.01.30-18.07.36:744][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-18.07.36:744][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-18.07.36:744][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-18.07.36:744][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-18.07.36:744][135]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-18.07.36:744][135]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-18.07.36:744][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-18.07.36:744][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-18.07.36:744][135]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-18.07.36:744][135]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-18.07.36:748][135]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-18.07.36:748][135]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-18.07.36:770][135]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.30-18.07.36:770][135]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-18.07.36:771][135]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-18.07.36:771][135]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-18.07.36:771][135]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-18.07.36:784][135]LogInit: FAudioDevice initialized.
+[2021.01.30-18.07.36:792][135]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-18.07.36:826][135]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-18.07.36
+[2021.01.30-18.07.36:827][135]LogWorld: Bringing up level for play took: 0.035325
+[2021.01.30-18.07.36:828][135]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.01.30-18.07.36:840][135]PIE: Server logged in
+[2021.01.30-18.07.36:840][135]PIE: Play in editor total start time 0.207 seconds.
+[2021.01.30-18.08.04:576][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.08.04:576][990]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.08.04:576][990]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.08.04:583][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.08.04:619][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-18.08.04:623][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.08.04:658][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.08.04:679][990]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000215DCB47D80), frame # 28990
+[2021.01.30-18.08.04:679][990]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021676FB4400), frame # 28990
+[2021.01.30-18.08.04:682][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.01.30-18.08.04:727][991]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.01.30-18.12.10:017][880]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-18.12.10:036][880]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-18.12.10:036][880]PIE: New page: PIE session: ThirdPersonExampleMap (30 Jan 2021, 18:12:10)
+[2021.01.30-18.12.10:036][880]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.12.10:093][880]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056623s)
+[2021.01.30-18.12.10:094][880]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-18.12.10:094][880]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021668E67E00), frame # 29880
+[2021.01.30-18.12.10:094][880]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000215D8E9CCC0), frame # 29880
+[2021.01.30-18.12.10:096][880]LogPlayLevel: PIE: World Init took: (0.002565s)
+[2021.01.30-18.12.10:096][880]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.059510s)
+[2021.01.30-18.12.10:146][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.01.30-18.12.10:151][880]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-18.12.10:151][880]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-18.12.10:151][880]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-18.12.10:151][880]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-18.12.10:151][880]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-18.12.10:151][880]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-18.12.10:151][880]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-18.12.10:151][880]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-18.12.10:152][880]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-18.12.10:152][880]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-18.12.10:157][880]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-18.12.10:157][880]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-18.12.10:177][880]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.30-18.12.10:178][880]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-18.12.10:178][880]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-18.12.10:178][880]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-18.12.10:178][880]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-18.12.10:195][880]LogInit: FAudioDevice initialized.
+[2021.01.30-18.12.10:206][880]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-18.12.10:243][880]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-18.12.10
+[2021.01.30-18.12.10:244][880]LogWorld: Bringing up level for play took: 0.036946
+[2021.01.30-18.12.10:244][880]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.01.30-18.12.10:257][880]PIE: Server logged in
+[2021.01.30-18.12.10:258][880]PIE: Play in editor total start time 0.223 seconds.
+[2021.01.30-18.13.07:456][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.13.07:456][541]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.13.07:456][541]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.13.07:463][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.13.07:502][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-18.13.07:510][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.13.07:544][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.13.07:566][541]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000215D8E9CCC0), frame # 31541
+[2021.01.30-18.13.07:567][541]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021668E67E00), frame # 31541
+[2021.01.30-18.13.07:572][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.01.30-18.13.07:612][542]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.01.30-18.13.34:842][465]LogActorFactory: Actor Factory created SM_Ground_Vista
+[2021.01.30-18.13.35:827][502]LogActorFactory: Actor Factory created SM_Ground_Vista
+[2021.01.30-18.14.01:819][  2]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-18.14.01:850][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-18.14.01:850][  2]PIE: New page: PIE session: ThirdPersonExampleMap (30 Jan 2021, 18:14:01)
+[2021.01.30-18.14.01:850][  2]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.14.01:918][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.067298s)
+[2021.01.30-18.14.01:919][  2]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-18.14.01:920][  2]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002150A444600), frame # 33002
+[2021.01.30-18.14.01:920][  2]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000215E45C3D80), frame # 33002
+[2021.01.30-18.14.01:920][  2]LogPlayLevel: PIE: World Init took: (0.001766s)
+[2021.01.30-18.14.01:920][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.069357s)
+[2021.01.30-18.14.01:961][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.01.30-18.14.01:968][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-18.14.01:968][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-18.14.01:968][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-18.14.01:968][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-18.14.01:968][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-18.14.01:968][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-18.14.01:968][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-18.14.01:968][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-18.14.01:969][  2]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-18.14.01:969][  2]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-18.14.01:974][  2]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-18.14.01:974][  2]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-18.14.01:997][  2]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.30-18.14.01:997][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-18.14.01:997][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-18.14.01:997][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-18.14.01:997][  2]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-18.14.02:013][  2]LogInit: FAudioDevice initialized.
+[2021.01.30-18.14.02:021][  2]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-18.14.02:060][  2]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-18.14.02
+[2021.01.30-18.14.02:061][  2]LogWorld: Bringing up level for play took: 0.038683
+[2021.01.30-18.14.02:061][  2]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.01.30-18.14.02:073][  2]PIE: Server logged in
+[2021.01.30-18.14.02:074][  2]PIE: Play in editor total start time 0.225 seconds.
+[2021.01.30-18.14.09:907][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.14.09:907][352]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.14.09:907][352]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.14.09:918][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.14.09:938][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-18.14.09:942][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.14.09:995][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.14.09:996][352]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000215E45C3D80), frame # 33352
+[2021.01.30-18.14.09:996][352]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002150A444600), frame # 33352
+[2021.01.30-18.14.10:001][352]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.01.30-18.14.10:044][353]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.01.30-18.14.53:828][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ground_Vista)
+[2021.01.30-18.15.45:364][646]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.30-18.15.50:408][764]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Polar/Meshes/Vista/Ice.Ice
+[2021.01.30-18.15.50:971][765]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2021.01.30-18.15.55:201][855]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.30-18.18.13:469][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Ground_Vista)
+[2021.01.30-18.18.14:058][486]Cmd: DELETE
+[2021.01.30-18.18.14:058][486]Cmd: ACTOR DELETE
+[2021.01.30-18.18.14:073][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.30-18.18.14:172][486]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.01.30-18.18.14:179][486]LogEditorActor: Deleted 1 Actors (0.120 secs)
+[2021.01.30-18.18.18:899][572]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-18.18.18:927][572]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.30-18.18.18:927][572]LogPlayLevel: [PlayLevel] Compiling Ice before play...
+[2021.01.30-18.18.19:042][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.01.30-18.18.19:045][572]LogPlayLevel: PlayLevel: Blueprint regeneration took 119 ms (1 blueprints)
+[2021.01.30-18.18.19:046][572]PIE: New page: PIE session: ThirdPersonExampleMap (30 Jan 2021, 18:18:19)
+[2021.01.30-18.18.19:046][572]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.18.19:099][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053047s)
+[2021.01.30-18.18.19:100][572]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-18.18.19:100][572]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000216BF6CB600), frame # 38572
+[2021.01.30-18.18.19:100][572]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000216B7CDD940), frame # 38572
+[2021.01.30-18.18.19:101][572]LogPlayLevel: PIE: World Init took: (0.001391s)
+[2021.01.30-18.18.19:101][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.054644s)
+[2021.01.30-18.18.19:153][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.01.30-18.18.19:156][572]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-18.18.19:157][572]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-18.18.19:157][572]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-18.18.19:157][572]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-18.18.19:157][572]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-18.18.19:157][572]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-18.18.19:157][572]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-18.18.19:157][572]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-18.18.19:157][572]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-18.18.19:157][572]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-18.18.19:161][572]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-18.18.19:161][572]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-18.18.19:186][572]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.30-18.18.19:186][572]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-18.18.19:186][572]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-18.18.19:187][572]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-18.18.19:187][572]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-18.18.19:201][572]LogInit: FAudioDevice initialized.
+[2021.01.30-18.18.19:211][572]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-18.18.19:248][572]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-18.18.19
+[2021.01.30-18.18.19:250][572]LogWorld: Bringing up level for play took: 0.037768
+[2021.01.30-18.18.19:250][572]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.01.30-18.18.19:262][572]PIE: Server logged in
+[2021.01.30-18.18.19:262][572]PIE: Play in editor total start time 0.337 seconds.
+[2021.01.30-18.18.53:016][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.18.53:016][662]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.18.53:017][662]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.18.53:027][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.18.53:049][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-18.18.53:056][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.18.53:096][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.18.53:119][662]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000216B7CDD940), frame # 39662
+[2021.01.30-18.18.53:119][662]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000216BF6CB600), frame # 39662
+[2021.01.30-18.18.53:124][662]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.01.30-18.18.53:218][663]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.01.30-18.19.10:848][177]Cmd: TRANSACTION UNDO
+[2021.01.30-18.19.10:848][177]LogEditorTransaction: Undo Duplicate Component
+[2021.01.30-18.22.33:919][335]LogEditorTransaction: Undo Edit Static Mesh
+[2021.01.30-18.25.47:742][450]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-18.25.47:774][450]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.30-18.25.47:775][450]LogPlayLevel: [PlayLevel] Compiling Ice before play...
+[2021.01.30-18.25.48:044][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.01.30-18.25.48:060][450]LogPlayLevel: PlayLevel: Blueprint regeneration took 285 ms (1 blueprints)
+[2021.01.30-18.25.48:060][450]PIE: New page: PIE session: ThirdPersonExampleMap (30 Jan 2021, 18:25:48)
+[2021.01.30-18.25.48:060][450]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.25.48:118][450]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057446s)
+[2021.01.30-18.25.48:119][450]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-18.25.48:120][450]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000215DE63EC00), frame # 49450
+[2021.01.30-18.25.48:120][450]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021648934A40), frame # 49450
+[2021.01.30-18.25.48:120][450]LogPlayLevel: PIE: World Init took: (0.001984s)
+[2021.01.30-18.25.48:120][450]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.059655s)
+[2021.01.30-18.25.48:177][450]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.01.30-18.25.48:179][450]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-18.25.48:179][450]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-18.25.48:179][450]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-18.25.48:179][450]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-18.25.48:179][450]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-18.25.48:179][450]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-18.25.48:179][450]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-18.25.48:179][450]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-18.25.48:179][450]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-18.25.48:179][450]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-18.25.48:183][450]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-18.25.48:183][450]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-18.25.48:209][450]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.30-18.25.48:209][450]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-18.25.48:209][450]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-18.25.48:209][450]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-18.25.48:209][450]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-18.25.48:226][450]LogInit: FAudioDevice initialized.
+[2021.01.30-18.25.48:236][450]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-18.25.48:271][450]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-18.25.48
+[2021.01.30-18.25.48:272][450]LogWorld: Bringing up level for play took: 0.035560
+[2021.01.30-18.25.48:273][450]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.01.30-18.25.48:284][450]PIE: Server logged in
+[2021.01.30-18.25.48:285][450]PIE: Play in editor total start time 0.512 seconds.
+[2021.01.30-18.26.00:325][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.26.00:325][797]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.26.00:326][797]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.26.00:334][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.26.00:420][797]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-18.26.00:433][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.26.00:491][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.26.00:522][797]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021648934A40), frame # 49797
+[2021.01.30-18.26.00:522][797]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000215DE63EC00), frame # 49797
+[2021.01.30-18.26.00:528][797]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2021.01.30-18.26.00:622][798]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.01.30-18.29.40:578][333]LogEditorViewport: Clicking on Actor (LMB): Ice_C (Ice)
+[2021.01.30-18.29.52:330][558]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-18.29.52:354][558]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.30-18.29.52:354][558]LogPlayLevel: [PlayLevel] Compiling Ice before play...
+[2021.01.30-18.29.52:506][558]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.01.30-18.29.52:519][558]LogPlayLevel: PlayLevel: Blueprint regeneration took 165 ms (1 blueprints)
+[2021.01.30-18.29.52:519][558]PIE: New page: PIE session: ThirdPersonExampleMap (30 Jan 2021, 18:29:52)
+[2021.01.30-18.29.52:519][558]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.29.52:576][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056920s)
+[2021.01.30-18.29.52:577][558]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-18.29.52:577][558]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021695AE5400), frame # 53558
+[2021.01.30-18.29.52:577][558]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021648936340), frame # 53558
+[2021.01.30-18.29.52:578][558]LogPlayLevel: PIE: World Init took: (0.001842s)
+[2021.01.30-18.29.52:578][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.058958s)
+[2021.01.30-18.29.52:635][558]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.01.30-18.29.52:638][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-18.29.52:638][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-18.29.52:638][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-18.29.52:638][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-18.29.52:638][558]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-18.29.52:638][558]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-18.29.52:638][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-18.29.52:638][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-18.29.52:639][558]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-18.29.52:639][558]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-18.29.52:644][558]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-18.29.52:644][558]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-18.29.52:669][558]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.30-18.29.52:669][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-18.29.52:669][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-18.29.52:669][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-18.29.52:670][558]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-18.29.52:682][558]LogInit: FAudioDevice initialized.
+[2021.01.30-18.29.52:689][558]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-18.29.52:729][558]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-18.29.52
+[2021.01.30-18.29.52:730][558]LogWorld: Bringing up level for play took: 0.040671
+[2021.01.30-18.29.52:731][558]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.01.30-18.29.52:744][558]PIE: Server logged in
+[2021.01.30-18.29.52:745][558]PIE: Play in editor total start time 0.392 seconds.
+[2021.01.30-18.30.20:865][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.30.20:865][616]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.30.20:865][616]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.30.20:873][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.30.20:883][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-18.30.20:889][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.30.20:932][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.30.20:955][616]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021648936340), frame # 54616
+[2021.01.30-18.30.20:955][616]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021695AE5400), frame # 54616
+[2021.01.30-18.30.20:961][616]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.01.30-18.30.21:040][617]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.01.30-18.30.59:947][592]LogMaterial: Display: Missing cached shader map for material M_IceBase, compiling. 
+[2021.01.30-18.31.00:082][592]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 47
+[2021.01.30-18.31.00:082][592]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2021.01.30-18.31.00:083][592]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2021.01.30-18.32.19:479][985]BlueprintLog: New page: Compile Ice
+[2021.01.30-18.32.19:681][985]LogUObjectHash: Compacting FUObjectHashTables data took   9.09ms
+[2021.01.30-18.32.21:032][  8]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-18.32.21:061][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-18.32.21:061][  8]PIE: New page: PIE session: ThirdPersonExampleMap (30 Jan 2021, 18:32:21)
+[2021.01.30-18.32.21:062][  8]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.32.21:159][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097896s)
+[2021.01.30-18.32.21:161][  8]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-18.32.21:161][  8]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000215DD860400), frame # 57008
+[2021.01.30-18.32.21:161][  8]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000021670605E40), frame # 57008
+[2021.01.30-18.32.21:162][  8]LogPlayLevel: PIE: World Init took: (0.002197s)
+[2021.01.30-18.32.21:162][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.100515s)
+[2021.01.30-18.32.21:258][  8]LogUObjectHash: Compacting FUObjectHashTables data took   7.69ms
+[2021.01.30-18.32.21:262][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-18.32.21:262][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-18.32.21:262][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-18.32.21:262][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-18.32.21:262][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-18.32.21:262][  8]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-18.32.21:262][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-18.32.21:262][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-18.32.21:263][  8]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-18.32.21:263][  8]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-18.32.21:269][  8]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-18.32.21:269][  8]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-18.32.21:301][  8]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.30-18.32.21:301][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-18.32.21:301][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-18.32.21:301][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-18.32.21:301][  8]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-18.32.21:327][  8]LogInit: FAudioDevice initialized.
+[2021.01.30-18.32.21:345][  8]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-18.32.21:399][  8]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-18.32.21
+[2021.01.30-18.32.21:400][  8]LogWorld: Bringing up level for play took: 0.054196
+[2021.01.30-18.32.21:401][  8]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.01.30-18.32.21:419][  8]PIE: Server logged in
+[2021.01.30-18.32.21:421][  8]PIE: Play in editor total start time 0.36 seconds.
+[2021.01.30-18.32.47:126][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.32.47:126][840]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.32.47:126][840]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.32.47:137][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.32.47:163][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-18.32.47:174][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.32.47:269][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.32.47:276][840]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021670605E40), frame # 57840
+[2021.01.30-18.32.47:276][840]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000215DD860400), frame # 57840
+[2021.01.30-18.32.47:283][840]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2021.01.30-18.32.47:437][841]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.01.30-18.33.25:169][674]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2021.01.30-18.34.17:274][421]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.01.30-18.34.33:790][666]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.01.30-18.34.57:103][  2]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2021.01.30-18.35.03:743][105]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.01.30-18.35.08:527][170]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.01.30-18.35.18:629][330]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.30-18.35.19:570][343]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.30-18.35.23:293][400]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-18.35.23:325][400]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.01.30-18.35.23:326][400]LogPlayLevel: [PlayLevel] Compiling Ice before play...
+[2021.01.30-18.35.23:644][400]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2021.01.30-18.35.23:661][400]LogPlayLevel: PlayLevel: Blueprint regeneration took 335 ms (1 blueprints)
+[2021.01.30-18.35.23:661][400]PIE: New page: PIE session: ThirdPersonExampleMap (30 Jan 2021, 18:35:23)
+[2021.01.30-18.35.23:661][400]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.35.23:758][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097490s)
+[2021.01.30-18.35.23:760][400]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-18.35.23:760][400]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021682A14A00), frame # 60400
+[2021.01.30-18.35.23:760][400]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002168F372C00), frame # 60400
+[2021.01.30-18.35.23:760][400]LogPlayLevel: PIE: World Init took: (0.002238s)
+[2021.01.30-18.35.23:760][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.099890s)
+[2021.01.30-18.35.23:825][400]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2021.01.30-18.35.23:829][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-18.35.23:829][400]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-18.35.23:829][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-18.35.23:829][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-18.35.23:829][400]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-18.35.23:829][400]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-18.35.23:829][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-18.35.23:829][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-18.35.23:830][400]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-18.35.23:830][400]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-18.35.23:835][400]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-18.35.23:836][400]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-18.35.23:868][400]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.30-18.35.23:869][400]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-18.35.23:869][400]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-18.35.23:869][400]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-18.35.23:869][400]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-18.35.23:890][400]LogInit: FAudioDevice initialized.
+[2021.01.30-18.35.23:906][400]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-18.35.23:962][400]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-18.35.23
+[2021.01.30-18.35.23:964][400]LogWorld: Bringing up level for play took: 0.057173
+[2021.01.30-18.35.23:964][400]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.01.30-18.35.23:986][400]PIE: Server logged in
+[2021.01.30-18.35.23:987][400]PIE: Play in editor total start time 0.662 seconds.
+[2021.01.30-18.36.01:794][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.36.01:794][592]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.36.01:795][592]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.36.01:802][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.36.01:838][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-18.36.01:844][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.36.01:885][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.36.01:905][592]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002168F372C00), frame # 61592
+[2021.01.30-18.36.01:905][592]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021682A14A00), frame # 61592
+[2021.01.30-18.36.01:910][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.01.30-18.36.02:016][593]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.01.30-18.37.52:747][946]BlueprintLog: New page: Compile Ice
+[2021.01.30-18.37.52:894][946]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.01.30-18.37.53:791][964]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-18.37.53:824][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-18.37.53:824][964]PIE: New page: PIE session: ThirdPersonExampleMap (30 Jan 2021, 18:37:53)
+[2021.01.30-18.37.53:824][964]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.37.53:885][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060916s)
+[2021.01.30-18.37.53:886][964]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-18.37.53:887][964]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021648C06400), frame # 63964
+[2021.01.30-18.37.53:887][964]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000216B84865C0), frame # 63964
+[2021.01.30-18.37.53:887][964]LogPlayLevel: PIE: World Init took: (0.001713s)
+[2021.01.30-18.37.53:887][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.062821s)
+[2021.01.30-18.37.53:941][964]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.01.30-18.37.53:944][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-18.37.53:944][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-18.37.53:944][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-18.37.53:944][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-18.37.53:944][964]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-18.37.53:944][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-18.37.53:944][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-18.37.53:944][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-18.37.53:945][964]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-18.37.53:945][964]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-18.37.53:948][964]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-18.37.53:948][964]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-18.37.53:970][964]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.30-18.37.53:970][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-18.37.53:970][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-18.37.53:970][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-18.37.53:970][964]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-18.37.53:989][964]LogInit: FAudioDevice initialized.
+[2021.01.30-18.37.53:994][964]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-18.37.54:031][964]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-18.37.54
+[2021.01.30-18.37.54:032][964]LogWorld: Bringing up level for play took: 0.037199
+[2021.01.30-18.37.54:032][964]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.01.30-18.37.54:044][964]PIE: Server logged in
+[2021.01.30-18.37.54:045][964]PIE: Play in editor total start time 0.223 seconds.
+[2021.01.30-18.38.02:694][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.38.02:695][353]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.38.02:695][353]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.38.02:706][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.38.02:717][353]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-18.38.02:726][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.38.02:808][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.38.02:811][353]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000216B84865C0), frame # 64353
+[2021.01.30-18.38.02:811][353]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021648C06400), frame # 64353
+[2021.01.30-18.38.02:817][353]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.01.30-18.38.02:897][354]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.01.30-18.38.14:459][944]BlueprintLog: New page: Compile Ice
+[2021.01.30-18.38.14:582][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.01.30-18.38.15:823][  2]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-18.38.15:847][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-18.38.15:847][  2]PIE: New page: PIE session: ThirdPersonExampleMap (30 Jan 2021, 18:38:15)
+[2021.01.30-18.38.15:847][  2]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.38.15:903][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056895s)
+[2021.01.30-18.38.15:904][  2]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-18.38.15:905][  2]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000216C71E9800), frame # 65002
+[2021.01.30-18.38.15:905][  2]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000216B83F42C0), frame # 65002
+[2021.01.30-18.38.15:905][  2]LogPlayLevel: PIE: World Init took: (0.001801s)
+[2021.01.30-18.38.15:905][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.058911s)
+[2021.01.30-18.38.15:957][  2]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.01.30-18.38.15:961][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-18.38.15:961][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-18.38.15:961][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-18.38.15:961][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-18.38.15:961][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-18.38.15:961][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-18.38.15:961][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-18.38.15:961][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-18.38.15:961][  2]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-18.38.15:962][  2]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-18.38.15:966][  2]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-18.38.15:966][  2]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-18.38.15:989][  2]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.30-18.38.15:989][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-18.38.15:989][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-18.38.15:989][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-18.38.15:989][  2]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-18.38.16:002][  2]LogInit: FAudioDevice initialized.
+[2021.01.30-18.38.16:012][  2]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-18.38.16:063][  2]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-18.38.16
+[2021.01.30-18.38.16:064][  2]LogWorld: Bringing up level for play took: 0.051308
+[2021.01.30-18.38.16:064][  2]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.01.30-18.38.16:077][  2]PIE: Server logged in
+[2021.01.30-18.38.16:078][  2]PIE: Play in editor total start time 0.232 seconds.
+[2021.01.30-18.38.33:274][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.38.33:274][772]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.38.33:275][772]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.38.33:285][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.38.33:295][772]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-18.38.33:301][772]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.38.33:369][772]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.38.33:371][772]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000216B83F42C0), frame # 65772
+[2021.01.30-18.38.33:371][772]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000216C71E9800), frame # 65772
+[2021.01.30-18.38.33:377][772]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2021.01.30-18.38.33:459][773]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.01.30-18.38.44:691][101]LogEditorViewport: Clicking on Actor (LMB): Ice_C (Ice)
+[2021.01.30-18.38.46:307][151]LogEditorViewport: Clicking on Actor (LMB): Ice_C (Ice)
+[2021.01.30-18.40.31:630][530]BlueprintLog: New page: Compile Ice
+[2021.01.30-18.40.31:784][530]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.01.30-18.41.18:406][576]BlueprintLog: New page: Compile Ice
+[2021.01.30-18.41.18:531][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.01.30-18.41.19:462][595]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-18.41.19:488][595]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-18.41.19:488][595]PIE: New page: PIE session: ThirdPersonExampleMap (30 Jan 2021, 18:41:19)
+[2021.01.30-18.41.19:488][595]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.41.19:550][595]LogPlayLevel: PIE: StaticDuplicateObject took: (0.062091s)
+[2021.01.30-18.41.19:551][595]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-18.41.19:551][595]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000216912BDC00), frame # 69595
+[2021.01.30-18.41.19:551][595]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000216925F5A80), frame # 69595
+[2021.01.30-18.41.19:552][595]LogPlayLevel: PIE: World Init took: (0.001325s)
+[2021.01.30-18.41.19:552][595]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.063539s)
+[2021.01.30-18.41.19:603][595]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.01.30-18.41.19:606][595]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-18.41.19:606][595]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-18.41.19:606][595]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-18.41.19:606][595]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-18.41.19:606][595]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-18.41.19:606][595]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-18.41.19:606][595]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-18.41.19:606][595]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-18.41.19:606][595]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-18.41.19:606][595]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-18.41.19:610][595]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-18.41.19:610][595]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-18.41.19:636][595]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.30-18.41.19:637][595]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-18.41.19:637][595]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-18.41.19:637][595]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-18.41.19:637][595]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-18.41.19:654][595]LogInit: FAudioDevice initialized.
+[2021.01.30-18.41.19:663][595]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-18.41.19:702][595]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-18.41.19
+[2021.01.30-18.41.19:703][595]LogWorld: Bringing up level for play took: 0.039460
+[2021.01.30-18.41.19:704][595]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.01.30-18.41.19:716][595]PIE: Server logged in
+[2021.01.30-18.41.19:717][595]PIE: Play in editor total start time 0.229 seconds.
+[2021.01.30-18.41.37:724][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.41.37:724][230]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.41.37:725][230]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.41.37:734][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.41.37:768][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-18.41.37:774][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.41.37:846][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.41.37:848][230]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000216925F5A80), frame # 70230
+[2021.01.30-18.41.37:848][230]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000216912BDC00), frame # 70230
+[2021.01.30-18.41.37:855][230]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2021.01.30-18.41.37:937][231]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.01.30-18.41.50:827][469]BlueprintLog: New page: Compile Ice
+[2021.01.30-18.41.50:949][469]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2021.01.30-18.41.52:108][485]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-18.41.52:137][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-18.41.52:137][485]PIE: New page: PIE session: ThirdPersonExampleMap (30 Jan 2021, 18:41:52)
+[2021.01.30-18.41.52:137][485]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.41.52:206][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068369s)
+[2021.01.30-18.41.52:207][485]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-18.41.52:207][485]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000216C6F45E00), frame # 70485
+[2021.01.30-18.41.52:207][485]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002168EB747C0), frame # 70485
+[2021.01.30-18.41.52:207][485]LogPlayLevel: PIE: World Init took: (0.001394s)
+[2021.01.30-18.41.52:207][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.069920s)
+[2021.01.30-18.41.52:270][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.01.30-18.41.52:273][485]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-18.41.52:273][485]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-18.41.52:273][485]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-18.41.52:273][485]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-18.41.52:273][485]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-18.41.52:273][485]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-18.41.52:273][485]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-18.41.52:273][485]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-18.41.52:273][485]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-18.41.52:273][485]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-18.41.52:278][485]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-18.41.52:278][485]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-18.41.52:297][485]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.30-18.41.52:297][485]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-18.41.52:297][485]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-18.41.52:297][485]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-18.41.52:297][485]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-18.41.52:298][485]LogInit: FAudioDevice initialized.
+[2021.01.30-18.41.52:327][485]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-18.41.52:376][485]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-18.41.52
+[2021.01.30-18.41.52:377][485]LogWorld: Bringing up level for play took: 0.048875
+[2021.01.30-18.41.52:377][485]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.01.30-18.41.52:391][485]PIE: Server logged in
+[2021.01.30-18.41.52:392][485]PIE: Play in editor total start time 0.255 seconds.
+[2021.01.30-18.42.07:064][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.42.07:064][ 41]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.42.07:065][ 41]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.42.07:073][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.42.07:085][ 41]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-18.42.07:093][ 41]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.42.07:175][ 41]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.42.07:177][ 41]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002168EB747C0), frame # 71041
+[2021.01.30-18.42.07:177][ 41]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000216C6F45E00), frame # 71041
+[2021.01.30-18.42.07:185][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   7.26ms
+[2021.01.30-18.42.07:287][ 42]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.01.30-18.42.08:154][ 76]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.30-18.42.08:188][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.30-18.42.08:188][ 76]PIE: New page: PIE session: ThirdPersonExampleMap (30 Jan 2021, 18:42:08)
+[2021.01.30-18.42.08:188][ 76]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.42.08:261][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073056s)
+[2021.01.30-18.42.08:262][ 76]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.30-18.42.08:262][ 76]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000021691A19000), frame # 71076
+[2021.01.30-18.42.08:262][ 76]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000216CCE4D440), frame # 71076
+[2021.01.30-18.42.08:262][ 76]LogPlayLevel: PIE: World Init took: (0.001681s)
+[2021.01.30-18.42.08:263][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.074933s)
+[2021.01.30-18.42.08:326][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.01.30-18.42.08:330][ 76]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.30-18.42.08:330][ 76]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.30-18.42.08:330][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.30-18.42.08:330][ 76]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.30-18.42.08:330][ 76]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.30-18.42.08:330][ 76]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.30-18.42.08:330][ 76]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.30-18.42.08:330][ 76]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.30-18.42.08:331][ 76]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.30-18.42.08:331][ 76]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.30-18.42.08:336][ 76]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.30-18.42.08:336][ 76]LogAudioMixer: Display: 1: FrontRight
+[2021.01.30-18.42.08:364][ 76]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2021.01.30-18.42.08:364][ 76]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.30-18.42.08:364][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.30-18.42.08:364][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.30-18.42.08:365][ 76]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.30-18.42.08:383][ 76]LogInit: FAudioDevice initialized.
+[2021.01.30-18.42.08:394][ 76]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.01.30-18.42.08:438][ 76]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.01.30-18.42.08
+[2021.01.30-18.42.08:439][ 76]LogWorld: Bringing up level for play took: 0.044143
+[2021.01.30-18.42.08:439][ 76]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.01.30-18.42.08:451][ 76]PIE: Server logged in
+[2021.01.30-18.42.08:452][ 76]PIE: Play in editor total start time 0.266 seconds.
+[2021.01.30-18.42.30:964][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.42.30:964][ 82]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.01.30-18.42.30:965][ 82]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.42.30:975][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.42.31:032][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.30-18.42.31:040][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.42.31:081][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.30-18.42.31:100][ 82]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000216CCE4D440), frame # 72082
+[2021.01.30-18.42.31:100][ 82]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021691A19000), frame # 72082
+[2021.01.30-18.42.31:108][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2021.01.30-18.42.31:188][ 83]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.01.30-18.44.21:726][708]LogEditorTransaction: Undo Remove Components
+[2021.01.30-18.44.23:155][724]LogEditorTransaction: Undo Duplicate Component
+[2021.01.30-18.44.24:142][735]LogEditorTransaction: Undo Remove Components
+[2021.01.30-18.46.12:402][405]LogMaterial: Display: Missing cached shader map for material _M_Master_Material_2Sided, compiling. 
+[2021.01.30-18.46.12:487][405]LogMaterial: Display: Missing cached shader map for material _M_Master_Material_2Sided, compiling. 
+[2021.01.30-18.46.12:554][405]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 111
+[2021.01.30-18.46.12:554][405]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 101
+[2021.01.30-18.46.12:554][405]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 91
+[2021.01.30-18.46.12:577][405]LogActorFactory: Actor Factory created SM_Ceiling_Closed_Stat
+[2021.01.30-18.46.13:315][414]LogActorFactory: Actor Factory created SM_Ceiling_Closed_Stat
+[2021.01.30-18.46.20:327][490]Cmd: DELETE
+[2021.01.30-18.46.20:327][490]Cmd: ACTOR DELETE
+[2021.01.30-18.46.20:364][490]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.01.30-18.46.20:512][490]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2021.01.30-18.46.20:527][490]LogEditorActor: Deleted 1 Actors (0.199 secs)
+[2021.01.30-18.46.27:736][566]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 192
+[2021.01.30-18.46.28:104][569]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 182
+[2021.01.30-18.46.28:204][569]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 172
+[2021.01.30-18.46.38:361][666]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 162
+[2021.01.30-18.46.41:269][695]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 152
+[2021.01.30-18.46.42:912][712]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 142
+[2021.01.30-18.46.47:750][747]LogStaticMesh: Building static mesh SM_Wall_Flat...
+[2021.01.30-18.46.47:907][747]LogStaticMesh: Built static mesh [0.15s] /Game/Polar/Meshes/Architecture/SM_Wall_Flat.SM_Wall_Flat
+[2021.01.30-18.46.47:930][747]LogMaterial: Display: Missing cached shader map for material _M_Master_Material, compiling. 
+[2021.01.30-18.46.56:175][830]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 243
+[2021.01.30-18.46.57:854][846]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 233
+[2021.01.30-18.47.00:701][869]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 223
+[2021.01.30-18.47.03:990][896]BlueprintLog: New page: Compile Ice
+[2021.01.30-18.47.04:225][896]LogUObjectHash: Compacting FUObjectHashTables data took   7.59ms
+[2021.01.30-18.47.09:572][950]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.30-18.47.10:553][956]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 213
+[2021.01.30-18.47.11:631][965]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 203
+[2021.01.30-18.47.14:329][985]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 193
+[2021.01.30-18.47.24:394][ 83]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 183
+[2021.01.30-18.47.26:215][ 98]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 173
+[2021.01.30-18.47.26:491][100]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 163
+[2021.01.30-18.47.35:157][174]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 153
+[2021.01.30-18.47.37:553][191]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 143
+[2021.01.30-18.47.42:427][235]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 133
+[2021.01.30-18.47.49:842][306]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 123
+[2021.01.30-18.47.59:004][408]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 113
+[2021.01.30-18.48.00:780][422]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 103
+[2021.01.30-18.48.04:241][446]LogMaterial: Display: Missing cached shader map for material M_Base_3C, compiling. 
+[2021.01.30-18.48.07:162][470]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 117
+[2021.01.30-18.48.07:411][473]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 107
+[2021.01.30-18.48.11:906][519]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 97
+[2021.01.30-18.48.23:772][651]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 87
+[2021.01.30-18.48.24:970][664]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 77
+[2021.01.30-18.48.27:744][688]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 67
+[2021.01.30-18.48.34:561][741]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 57
+[2021.01.30-18.48.40:526][791]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 47
+[2021.01.30-18.48.40:538][791]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 37
+[2021.01.30-18.48.54:906][953]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 27
+[2021.01.30-18.49.00:211][  6]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Polar/Meshes/Architecture/SM_Ceiling_Closed_Stat.SM_Ceiling_Closed_Stat
+[2021.01.30-18.49.00:709][  6]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 17
+[2021.01.30-18.49.01:283][  6]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.01.30-18.49.01:492][  6]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.49.01:492][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.49.02:831][  7]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2021.01.30-18.49.09:532][ 71]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.01.30-18.49.16:563][152]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2021.01.30-18.49.17:208][160]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.01.30-18.49.18:166][170]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.01.30-18.49.51:615][860]LogEditorViewport: Clicking on Actor (LMB): Ice_C (Ice)
+[2021.01.30-18.49.59:678][ 15]LogEditorViewport: Clicking on Actor (LMB): Ice_C (Ice)
+[2021.01.30-18.51.14:981][182]LogEditorTransaction: Undo Modify Component(s)
+[2021.01.30-18.51.33:826][456]BlueprintLog: New page: Compile Ice
+[2021.01.30-18.51.34:189][456]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2021.01.30-18.51.35:419][473]LogSlate: Window 'SM_Ceiling_Closed_Stat' being destroyed
+[2021.01.30-18.51.35:475][473]LogSlate: Window 'SM_Ceiling_Closed_Stat' being destroyed
+[2021.01.30-18.51.35:592][473]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.51.35:592][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.51.35:787][473]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.51.35:787][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.51.35:894][473]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.51.35:894][473]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.30-18.51.38:363][513]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2021.01.30-18.51.38:611][513]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.01.30-18.51.38:790][513]LogSavePackage: Moving '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/ThirdPersonExampleMap97DB38054054DF4FF6C7439F8EEDC4E5.tmp' to '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.01.30-18.51.38:843][513]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.351
+[2021.01.30-18.51.39:109][513]LogSavePackage: Moving '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/ThirdPersonExampleMap_BuiltData42E7BB4844383A0C52A0D28D973CF379.tmp' to '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.01.30-18.51.39:800][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/GJ_19_Music_Action_01_M" FILE="../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/SFX/GJ_19_Music_Action_01_M.uasset" SILENT=true
+[2021.01.30-18.51.39:863][513]LogSavePackage: Moving '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/GJ_19_Music_Action_01_MA15CC0C34EB658E3707181B131BBDEA0.tmp' to '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/SFX/GJ_19_Music_Action_01_M.uasset'
+[2021.01.30-18.51.39:866][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SFX/GJ_19_Music_Action_01_M_Cue" FILE="../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/SFX/GJ_19_Music_Action_01_M_Cue.uasset" SILENT=true
+[2021.01.30-18.51.39:873][513]LogSavePackage: Moving '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/GJ_19_Music_Action_01_M_Cue3D8E81004A358988E2654A98717542FB.tmp' to '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/SFX/GJ_19_Music_Action_01_M_Cue.uasset'
+[2021.01.30-18.51.39:890][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Polar/Meshes/Vista/Ice" FILE="../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/Polar/Meshes/Vista/Ice.uasset" SILENT=true
+[2021.01.30-18.51.39:915][513]LogSavePackage: Moving '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Saved/Ice548F54CB4ECD8011A0ABECB218C3C413.tmp' to '../../../../../GameJam2021/UnrealEngine/GameJamtest4/MyProject2/Content/Polar/Meshes/Vista/Ice.uasset'
+[2021.01.30-18.51.39:960][513]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.30-18.51.39:960][513]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.01.30-18.51.39:960][513]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.01.30-18.51.39:960][513]LogContentValidation: Display: Validating SoundWave /Game/SFX/GJ_19_Music_Action_01_M.GJ_19_Music_Action_01_M
+[2021.01.30-18.51.39:960][513]LogContentValidation: Display: Validating SoundCue /Game/SFX/GJ_19_Music_Action_01_M_Cue.GJ_19_Music_Action_01_M_Cue
+[2021.01.30-18.51.39:960][513]LogContentValidation: Display: Validating Blueprint /Game/Polar/Meshes/Vista/Ice.Ice
+[2021.01.30-18.51.41:645][545]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.01.30-18.51.41:807][545]LogSlate: Window 'MyProject2 - Unreal Editor' being destroyed
+[2021.01.30-18.51.41:809][545]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.01.30-18.51.42:007][546]Cmd: QUIT_EDITOR
+[2021.01.30-18.51.42:007][546]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.01.30-18.51.42:014][546]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.01.30-18.51.42:493][546]LogExit: Preparing to exit.
+[2021.01.30-18.51.43:044][546]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.51.43:048][546]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.51.43:050][546]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.51.43:052][546]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.51.43:055][546]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.51.43:057][546]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.51.43:060][546]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.51.43:064][546]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.51.43:542][546]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.01.30-18.51.43:557][546]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.01.30-18.51.43:561][546]LogExit: Editor shut down
+[2021.01.30-18.51.43:563][546]LogExit: Transaction tracking system shut down
+[2021.01.30-18.51.44:378][546]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000002155DB29D00), frame # 79546
+[2021.01.30-18.51.44:378][546]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002155DA7CF40), frame # 79546
+[2021.01.30-18.51.44:378][546]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002155DAD9E00), frame # 79546
+[2021.01.30-18.51.44:557][546]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002157E4F7000), frame # 79546
+[2021.01.30-18.51.44:557][546]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000021571794CC0), frame # 79546
+[2021.01.30-18.51.44:696][546]LogExit: Object subsystem successfully closed.
+[2021.01.30-18.51.44:733][546]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.01.30-18.51.44:760][546]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (800)
+[2021.01.30-18.51.44:760][546]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (798)
+[2021.01.30-18.51.44:760][546]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (796)
+[2021.01.30-18.51.44:760][546]LogModuleManager: Shutting down and abandoning module Voice (794)
+[2021.01.30-18.51.44:760][546]LogModuleManager: Shutting down and abandoning module BlueprintGraph (792)
+[2021.01.30-18.51.44:760][546]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2021.01.30-18.51.44:760][546]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2021.01.30-18.51.44:760][546]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2021.01.30-18.51.44:764][546]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2021.01.30-18.51.44:764][546]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2021.01.30-18.51.44:764][546]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2021.01.30-18.51.44:764][546]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2021.01.30-18.51.44:764][546]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2021.01.30-18.51.44:764][546]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2021.01.30-18.51.44:764][546]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2021.01.30-18.51.44:765][546]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2021.01.30-18.51.44:765][546]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2021.01.30-18.51.44:765][546]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2021.01.30-18.51.44:765][546]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2021.01.30-18.51.44:765][546]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2021.01.30-18.51.44:765][546]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2021.01.30-18.51.44:765][546]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2021.01.30-18.51.44:765][546]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2021.01.30-18.51.44:765][546]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2021.01.30-18.51.44:765][546]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2021.01.30-18.51.44:765][546]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2021.01.30-18.51.44:765][546]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2021.01.30-18.51.44:765][546]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2021.01.30-18.51.44:766][546]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2021.01.30-18.51.44:767][546]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2021.01.30-18.51.44:767][546]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2021.01.30-18.51.44:767][546]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2021.01.30-18.51.44:767][546]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2021.01.30-18.51.44:767][546]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2021.01.30-18.51.45:347][546]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2021.01.30-18.51.45:348][546]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2021.01.30-18.51.45:349][546]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2021.01.30-18.51.45:349][546]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2021.01.30-18.51.45:349][546]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2021.01.30-18.51.45:349][546]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2021.01.30-18.51.45:349][546]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2021.01.30-18.51.45:349][546]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2021.01.30-18.51.45:349][546]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2021.01.30-18.51.45:382][546]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2021.01.30-18.51.45:382][546]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2021.01.30-18.51.45:382][546]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2021.01.30-18.51.45:382][546]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2021.01.30-18.51.45:382][546]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2021.01.30-18.51.45:382][546]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2021.01.30-18.51.45:382][546]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2021.01.30-18.51.45:382][546]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2021.01.30-18.51.45:382][546]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2021.01.30-18.51.45:382][546]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2021.01.30-18.51.45:382][546]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2021.01.30-18.51.45:390][546]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2021.01.30-18.51.45:390][546]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2021.01.30-18.51.45:390][546]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2021.01.30-18.51.45:390][546]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2021.01.30-18.51.45:391][546]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2021.01.30-18.51.45:392][546]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2021.01.30-18.51.45:392][546]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2021.01.30-18.51.45:393][546]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2021.01.30-18.51.45:424][546]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2021.01.30-18.51.45:424][546]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2021.01.30-18.51.45:424][546]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2021.01.30-18.51.45:424][546]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2021.01.30-18.51.45:424][546]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2021.01.30-18.51.45:424][546]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2021.01.30-18.51.45:425][546]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2021.01.30-18.51.45:427][546]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2021.01.30-18.51.45:428][546]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2021.01.30-18.51.45:530][546]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2021.01.30-18.51.45:631][546]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2021.01.30-18.51.45:631][546]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2021.01.30-18.51.45:631][546]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2021.01.30-18.51.45:632][546]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2021.01.30-18.51.45:632][546]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2021.01.30-18.51.45:632][546]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2021.01.30-18.51.45:632][546]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2021.01.30-18.51.45:632][546]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2021.01.30-18.51.45:632][546]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2021.01.30-18.51.45:632][546]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2021.01.30-18.51.45:634][546]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2021.01.30-18.51.45:634][546]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2021.01.30-18.51.45:634][546]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2021.01.30-18.51.45:635][546]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2021.01.30-18.51.45:635][546]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2021.01.30-18.51.45:635][546]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2021.01.30-18.51.45:635][546]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2021.01.30-18.51.45:635][546]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2021.01.30-18.51.45:635][546]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2021.01.30-18.51.45:635][546]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2021.01.30-18.51.45:635][546]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2021.01.30-18.51.45:635][546]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2021.01.30-18.51.45:635][546]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2021.01.30-18.51.45:635][546]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2021.01.30-18.51.45:635][546]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2021.01.30-18.51.45:635][546]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2021.01.30-18.51.45:635][546]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2021.01.30-18.51.45:635][546]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2021.01.30-18.51.45:636][546]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2021.01.30-18.51.45:636][546]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2021.01.30-18.51.45:636][546]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2021.01.30-18.51.45:636][546]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2021.01.30-18.51.45:636][546]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2021.01.30-18.51.45:636][546]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2021.01.30-18.51.45:636][546]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2021.01.30-18.51.45:636][546]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2021.01.30-18.51.45:636][546]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2021.01.30-18.51.45:636][546]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2021.01.30-18.51.45:636][546]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2021.01.30-18.51.45:638][546]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2021.01.30-18.51.45:638][546]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2021.01.30-18.51.45:638][546]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2021.01.30-18.51.45:638][546]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2021.01.30-18.51.45:638][546]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2021.01.30-18.51.45:638][546]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2021.01.30-18.51.45:638][546]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2021.01.30-18.51.45:639][546]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2021.01.30-18.51.45:639][546]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2021.01.30-18.51.45:639][546]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2021.01.30-18.51.45:639][546]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2021.01.30-18.51.45:639][546]LogModuleManager: Shutting down and abandoning module Core (216)
+[2021.01.30-18.51.45:639][546]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2021.01.30-18.51.45:639][546]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2021.01.30-18.51.45:639][546]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2021.01.30-18.51.45:639][546]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2021.01.30-18.51.45:641][546]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2021.01.30-18.51.45:641][546]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2021.01.30-18.51.45:641][546]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2021.01.30-18.51.45:641][546]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2021.01.30-18.51.45:641][546]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2021.01.30-18.51.45:641][546]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2021.01.30-18.51.45:641][546]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2021.01.30-18.51.45:641][546]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2021.01.30-18.51.45:641][546]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2021.01.30-18.51.45:641][546]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2021.01.30-18.51.45:641][546]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2021.01.30-18.51.45:641][546]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2021.01.30-18.51.45:641][546]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2021.01.30-18.51.45:641][546]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2021.01.30-18.51.45:642][546]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2021.01.30-18.51.45:653][546]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2021.01.30-18.51.45:658][546]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2021.01.30-18.51.45:658][546]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2021.01.30-18.51.45:658][546]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2021.01.30-18.51.45:658][546]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2021.01.30-18.51.45:658][546]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2021.01.30-18.51.45:658][546]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2021.01.30-18.51.45:658][546]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2021.01.30-18.51.45:658][546]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2021.01.30-18.51.45:658][546]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2021.01.30-18.51.45:662][546]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2021.01.30-18.51.45:689][546]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2021.01.30-18.51.45:689][546]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2021.01.30-18.51.45:689][546]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2021.01.30-18.51.45:689][546]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2021.01.30-18.51.45:690][546]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2021.01.30-18.51.45:690][546]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2021.01.30-18.51.45:690][546]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2021.01.30-18.51.45:690][546]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2021.01.30-18.51.45:690][546]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2021.01.30-18.51.45:690][546]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2021.01.30-18.51.45:690][546]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2021.01.30-18.51.45:690][546]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2021.01.30-18.51.45:690][546]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2021.01.30-18.51.45:690][546]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2021.01.30-18.51.45:690][546]LogHMD: Freeing OpenVRDLLHandle.
+[2021.01.30-18.51.45:690][546]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2021.01.30-18.51.45:690][546]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2021.01.30-18.51.45:690][546]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2021.01.30-18.51.45:690][546]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2021.01.30-18.51.45:690][546]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2021.01.30-18.51.45:691][546]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2021.01.30-18.51.45:691][546]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2021.01.30-18.51.45:726][546]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2021.01.30-18.51.45:726][546]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.01.30-18.51.45:726][546]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAE4FB1DE-4206-13FC-9D89-E589FBC01BB2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=e74e6a684508035937f8a8b71c06bc62%7C90f194764dc448de8f99e9117856bf5e%7C65675f4f-d75b-4663-a5b9-c37d40cf21a9&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2021.01.30-18.51.45:761][546]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2021.01.30-18.51.45:770][546]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2021.01.30-18.51.45:772][546]LogModuleManager: Shutting down and abandoning module Media (61)
+[2021.01.30-18.51.45:773][546]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.01.30-18.51.45:773][546]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.01.30-18.51.45:773][546]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.01.30-18.51.45:773][546]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2021.01.30-18.51.45:773][546]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2021.01.30-18.51.45:774][546]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2021.01.30-18.51.45:774][546]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2021.01.30-18.51.45:774][546]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.01.30-18.51.45:774][546]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.01.30-18.51.45:774][546]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.01.30-18.51.45:774][546]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.01.30-18.51.45:774][546]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.01.30-18.51.45:774][546]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.01.30-18.51.45:775][546]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.01.30-18.51.45:775][546]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.01.30-18.51.45:775][546]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.01.30-18.51.45:775][546]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.01.30-18.51.45:776][546]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.01.30-18.51.45:776][546]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.01.30-18.51.45:776][546]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.01.30-18.51.45:776][546]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.01.30-18.51.45:776][546]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.01.30-18.51.45:776][546]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.01.30-18.51.45:776][546]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.01.30-18.51.45:776][546]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.01.30-18.51.45:776][546]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.01.30-18.51.45:776][546]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.01.30-18.51.45:776][546]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.01.30-18.51.45:776][546]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.01.30-18.51.45:776][546]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.01.30-18.51.45:781][546]LogD3D11RHI: Shutdown
+[2021.01.30-18.51.45:781][546]LogD3D11RHI: CleanupD3DDevice
+[2021.01.30-18.51.45:802][546]LogExit: Exiting.
+[2021.01.30-18.51.45:832][546]Log file closed, 01/30/21 18:51:45
+>>>>>>> 4cb9a2d6f82863c65634e541f10c12f933f5606a
