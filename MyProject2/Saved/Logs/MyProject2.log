@@ -2330,3 +2330,83 @@ GameplayDebuggerCategoryReplicator
 [2021.01.31-12.14.39:936][418]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF1ADE5B7-4F30-5B2A-0EAF-C0B79E42E31D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=929feeb74b73c5e523c977ae2fe74b27%7Ca659b0de83e54cb3847c193b617284bc%7Cf188250f-fec2-40b0-a67c-de9b7b33b689&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
 [2021.01.31-12.14.39:936][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2021.01.31-12.14.40:437][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.40:938][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.41:438][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.41:939][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.42:439][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.42:940][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.43:441][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.43:942][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.44:443][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.44:944][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.45:444][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.45:944][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.46:445][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.46:946][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.47:447][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.47:947][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.48:448][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.48:949][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.49:449][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.49:950][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.50:451][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.50:951][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.51:452][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.51:952][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.52:453][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.52:954][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.53:454][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.53:954][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.54:456][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.54:956][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.55:456][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.55:957][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.56:457][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.56:958][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.57:458][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.57:959][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.58:460][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.58:961][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.59:462][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.14.59:962][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.15.00:464][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.15.00:964][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.15.01:465][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.15.01:966][418]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-12.15.02:492][418]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2021.01.31-12.15.02:493][418]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2021.01.31-12.15.02:508][418]LogModuleManager: Shutting down and abandoning module Media (61)
+[2021.01.31-12.15.02:509][418]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.01.31-12.15.02:509][418]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.01.31-12.15.02:516][418]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.01.31-12.15.02:516][418]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2021.01.31-12.15.02:516][418]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2021.01.31-12.15.02:522][418]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2021.01.31-12.15.02:522][418]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2021.01.31-12.15.02:528][418]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.01.31-12.15.02:533][418]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.01.31-12.15.02:533][418]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.01.31-12.15.02:533][418]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.01.31-12.15.02:552][418]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.01.31-12.15.02:562][418]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.01.31-12.15.02:578][418]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.01.31-12.15.02:578][418]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.01.31-12.15.02:578][418]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.01.31-12.15.02:578][418]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.01.31-12.15.02:609][418]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.01.31-12.15.02:646][418]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.01.31-12.15.02:646][418]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.01.31-12.15.02:697][418]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.01.31-12.15.02:734][418]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.01.31-12.15.02:734][418]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.01.31-12.15.02:734][418]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.01.31-12.15.02:743][418]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.01.31-12.15.02:744][418]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.01.31-12.15.02:763][418]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.01.31-12.15.02:786][418]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.01.31-12.15.02:786][418]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.01.31-12.15.02:806][418]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.01.31-12.15.02:823][418]LogD3D11RHI: Shutdown
+[2021.01.31-12.15.02:823][418]LogD3D11RHI: CleanupD3DDevice
+[2021.01.31-12.15.02:877][418]LogExit: Exiting.
+[2021.01.31-12.15.02:895][418]Log file closed, 01/31/21 12:15:02
