@@ -1357,3 +1357,48 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-15.17.26:361][842]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2021.01.31-15.17.26:862][842]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
 [2021.01.31-15.17.27:363][842]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-15.17.27:864][842]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-15.17.28:365][842]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-15.17.28:866][842]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-15.17.29:367][842]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-15.17.29:867][842]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-15.17.30:368][842]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-15.17.30:869][842]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-15.17.31:369][842]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2021.01.31-15.17.31:898][842]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2021.01.31-15.17.31:899][842]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2021.01.31-15.17.31:903][842]LogModuleManager: Shutting down and abandoning module Media (61)
+[2021.01.31-15.17.31:904][842]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.01.31-15.17.31:904][842]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.01.31-15.17.31:904][842]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.01.31-15.17.31:904][842]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2021.01.31-15.17.31:904][842]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2021.01.31-15.17.31:909][842]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2021.01.31-15.17.31:909][842]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2021.01.31-15.17.31:909][842]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.01.31-15.17.31:909][842]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.01.31-15.17.31:909][842]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.01.31-15.17.31:909][842]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.01.31-15.17.31:909][842]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.01.31-15.17.31:910][842]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.01.31-15.17.31:910][842]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.01.31-15.17.31:910][842]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.01.31-15.17.31:910][842]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.01.31-15.17.31:910][842]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.01.31-15.17.31:910][842]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.01.31-15.17.31:910][842]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.01.31-15.17.31:910][842]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.01.31-15.17.31:910][842]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.01.31-15.17.31:910][842]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.01.31-15.17.31:910][842]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.01.31-15.17.31:910][842]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.01.31-15.17.31:910][842]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.01.31-15.17.31:910][842]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.01.31-15.17.31:910][842]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.01.31-15.17.31:923][842]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.01.31-15.17.31:923][842]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.01.31-15.17.31:924][842]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.01.31-15.17.31:925][842]LogD3D11RHI: Shutdown
+[2021.01.31-15.17.31:925][842]LogD3D11RHI: CleanupD3DDevice
+[2021.01.31-15.17.31:935][842]LogExit: Exiting.
+[2021.01.31-15.17.31:947][842]Log file closed, 01/31/21 15:17:31
