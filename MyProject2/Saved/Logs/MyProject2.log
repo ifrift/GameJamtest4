@@ -697,3 +697,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.31-11.29.34:154][  0]LoadErrors: Failed to load /Game/ParagonTwinblast/FX/Meshes/Shapes/SM_Twinblast_Booster_cone.SM_Twinblast_Booster_cone Referenced by ParticleModuleTypeDataMesh_0
 [2021.01.31-11.29.34:154][  0]LogLinker: Warning: While loading '../../../../Unreal Games/UnrealEngine/GameJamtest4/MyProject2/Content/ParagonTwinblast/FX/Particles/Abilities/Nitro/FX/P_NitroBooster_Arms.uasset' failed to load '/Game/ParagonTwinblast/FX/Meshes/Shapes/SM_Twinblast_Booster_cone': Can't find file.
 [2021.01.31-11.29.34:154][  0]LoadErrors: Failed to load /Game/ParagonTwinblast/FX/Meshes/Shapes/SM_Twinblast_Booster_cone.SM_Twinblast_Booster_cone Referenced by ParticleModuleTypeDataMesh_0
+[2021.01.31-11.29.37:049][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.01.31-11.29.37:050][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A4B1F93E00), frame # 0
+[2021.01.31-11.29.37:050][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A4B2015440), frame # 0
+[2021.01.31-11.29.37:371][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.31-11.29.37:435][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.01.31-11.29.37:436][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.31-11.29.37:436][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2021.01.31-11.29.37:436][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 15.775
+[2021.01.31-11.29.37:439][  0]LogUnrealEdMisc: Total Editor Startup Time, took 69.993
+[2021.01.31-11.29.37:596][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-11.29.37:604][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-11.29.37:612][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-11.29.37:619][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.31-11.29.37:671][  0]LogCollectionManager: Loaded 0 collections in 0.000793 seconds
+[2021.01.31-11.29.37:683][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Games/UnrealEngine/GameJamtest4/MyProject2/Saved/Collections/' took 0.00s
+[2021.01.31-11.29.37:684][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Games/UnrealEngine/GameJamtest4/MyProject2/Content/Developers/Michael/Collections/' took 0.00s
+[2021.01.31-11.29.37:684][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Games/UnrealEngine/GameJamtest4/MyProject2/Content/Collections/' took 0.00s
+[2021.01.31-11.29.37:684][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 3427 classes and 821 folders.
+[2021.01.31-11.29.37:686][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.01.31-11.29.38:306][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.01.31-11.29.38:307][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.01.31-11.29.38:356][  0]LogSlate: Took 0.005977 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.01.31-11.29.38:363][  0]LogSlate: Took 0.005462 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.01.31-11.29.38:373][  0]LogSlate: Took 0.006267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.01.31-11.29.38:573][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
